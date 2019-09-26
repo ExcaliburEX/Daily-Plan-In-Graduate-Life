@@ -1,6 +1,8 @@
 # 2019
 记录生活:sparkling_heart::sparkling_heart::sparkling_heart:
 :revolving_hearts::revolving_hearts::revolving_hearts:
+![大家](https://s2.ax1x.com/2019/09/26/unnRe0.jpg)
+![我](https://s2.ax1x.com/2019/09/26/unnaeP.jpg)
 ## <font face="Times New Romans">9.26</font>
 - [x] <font color=#1E90FF>**吴恩达的视频**</font>：多变量线性回归
 - [x] <font color=#87CEFA>**西瓜书**</font>：模型评估与选择以及线性模型(:sleeping:大概看完了:no_mouth::mask:)
