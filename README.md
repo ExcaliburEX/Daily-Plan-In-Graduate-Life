@@ -1,6 +1,6 @@
 # 2019
-![](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/we.jpg)
-![](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/me.jpg)
+![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
+![me](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/me.jpg)
 记录生活:sparkling_heart::sparkling_heart::sparkling_heart:
 :revolving_hearts::revolving_hearts::revolving_hearts:
 ![大家](https://s2.ax1x.com/2019/09/26/unnRe0.jpg)
