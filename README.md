@@ -26,3 +26,16 @@
 - [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp:
 - [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart:
 
+## <font face="Times New Romans">9.28</font>
+当了一下午的志愿者，认识了个独墅湖的研三公卫的帅哥，跟司机三个人侃大山一下午，领导丢是不会丢的。聊到公务员，事业单位，朝晖，SBS的丑闻(想想自己单身可能还是因为道德法则的约束吧，什么时候变坏了就可以左拥右抱了)，苏大附院的实名举报，和帅哥交流了一下经验，要换个新发型新装扮才能找到女朋友。
+!(20190928)[https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/20190928.jpg]
+- [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile:
+- [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream:
+- [ ] <font color=#00FF00>**pytorch**</font>：难受啊飝:trollface::trollface::trollface:
+- [ ] <font color=#66CDAA>**LeetCode**</font>：难受啊飝+1:trollface::trollface::trollface:
+- [ ] <font color=#8B658B>**日语**</font>：待议:zzz::zzz::zzz::disappointed::disappointed::disappointed:
+- [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent:
+- [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
+
+
+
