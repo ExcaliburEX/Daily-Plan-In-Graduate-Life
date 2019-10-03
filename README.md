@@ -1,9 +1,6 @@
 # 2019
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
 ![me](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/me.jpg)
-<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg" width = "375">
-<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg" width = "375">
-<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg" width = "375">
 记录生活:sparkling_heart::sparkling_heart::sparkling_heart:
 :revolving_hearts::revolving_hearts::revolving_hearts:
 
@@ -54,9 +51,11 @@
 ## <font face="Times New Romans">9.30</font>
 > **实验室为某人打掩护，一起约去游密室，看《我和我的祖国》，吃了快关门的烤肉自助。**
 
-![微信图片_20191003101139](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101139.jpg)![微信图片_20191003101154](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101154.jpg)![微信图片_20191003101158](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101158.jpg)
 
-<img>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101139.jpg" width = "275"/>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101154.jpg" width = "275"/>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101158.jpg" width = "275"/>
+
 
 - [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
 - [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream:
@@ -69,8 +68,9 @@
 ## <font face="Times New Romans">10.1</font>
 > **深夜，五人会。大雨。实验室看国庆阅兵，夜晚的加餐面，晚间宿舍与昆撸同看烟火大会。**
 
-![微信图片_20191003101200](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg)![微信图片_20191003101203](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101203.jpg)![微信图片_20191003101205](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101205.jpg)
-
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg" width = "275"/>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101203.jpg" width = "275"/>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101205.jpg" width = "275"/>
 
 - [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
 - [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream::scream::scream::scream:
