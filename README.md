@@ -1,4 +1,7 @@
 # 2019
+- [柯摩的BLOG](kemo.xyz) 
+- [知乎专栏：柯摩的世界](https://zhuanlan.zhihu.com/c_1157679453546053632)
+- [微博](https://weibo.com/u/5339619827/home?wvr=5)
 ![](https://img.shields.io/badge/Followers-666-brightgreen)![](https://img.shields.io/badge/Rating-10000-orange)![](https://img.shields.io/badge/chat-6666-blue)
 
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
