@@ -37,5 +37,54 @@
 - [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent:
 - [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
 
+## <font face="Times New Romans">9.29</font>
+> 换了新发型，感觉不错
+
+- [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
+- [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream:
+- [ ] <font color=#00FF00>**pytorch**</font>：难受啊飝:trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#66CDAA>**LeetCode**</font>：难受啊飝+1:trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#8B658B>**日语**</font>：待议:zzz::zzz::zzz::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed:
+- [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent::innocent::innocent::innocent:
+- [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
+
+## <font face="Times New Romans">9.30</font>
+> **实验室为某人打掩护，一起约去游密室，看《我和我的祖国》，吃了快关门的烤肉自助。**
+
+![微信图片_20191003101139](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101139.jpg)![微信图片_20191003101154](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101154.jpg)![微信图片_20191003101158](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101158.jpg)
+
+- [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
+- [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream:
+- [ ] <font color=#00FF00>**pytorch**</font>：难受啊飝:trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#66CDAA>**LeetCode**</font>：难受啊飝+1:trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#8B658B>**日语**</font>：待议:zzz::zzz::zzz::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed:
+- [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent::innocent::innocent::innocent:
+- [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
+
+## <font face="Times New Romans">10.1</font>
+> **深夜，五人会。大雨。实验室看国庆阅兵，夜晚的加餐面，晚间宿舍与昆撸同看烟火大会。**
+
+![微信图片_20191003101200](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg)![微信图片_20191003101203](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101203.jpg)![微信图片_20191003101205](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101205.jpg)
+
+
+- [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
+- [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream::scream::scream::scream:
+- [ ] <font color=#00FF00>**pytorch**</font>：难受啊飝:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#66CDAA>**LeetCode**</font>：难受啊飝+1:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#8B658B>**日语**</font>：待议:zzz::zzz::zzz::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed:
+- [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent:
+- [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
+
+## <font face="Times New Romans">10.2</font>
+> **望天，自问，自疑，自惑，何去何斗何果。**
+
+- [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
+- [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream:
+- [ ] <font color=#00FF00>**pytorch**</font>：难受啊飝:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#66CDAA>**LeetCode**</font>：难受啊飝+1:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#8B658B>**日语**</font>：待议:zzz::zzz::zzz::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed:
+- [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent:
+- [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
+
 
 
