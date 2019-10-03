@@ -1,4 +1,6 @@
 # 2019
+![](https://img.shields.io/badge/Followers-666-brightgreen)![](https://img.shields.io/badge/Rating-10000-orange)![](https://img.shields.io/badge/chat-6666-blue)
+
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
 ![me](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/me.jpg)
 记录生活:sparkling_heart::sparkling_heart::sparkling_heart:
