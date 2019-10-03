@@ -1,6 +1,9 @@
 # 2019
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
 ![me](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/me.jpg)
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg" width = "375">
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg" width = "375">
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg" width = "375">
 记录生活:sparkling_heart::sparkling_heart::sparkling_heart:
 :revolving_hearts::revolving_hearts::revolving_hearts:
 
