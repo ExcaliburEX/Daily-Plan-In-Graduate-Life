@@ -53,6 +53,8 @@
 
 ![微信图片_20191003101139](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101139.jpg)![微信图片_20191003101154](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101154.jpg)![微信图片_20191003101158](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101158.jpg)
 
+<img>
+
 - [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
 - [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream:
 - [ ] <font color=#00FF00>**pytorch**</font>：难受啊飝:trollface::trollface::trollface::trollface::trollface::trollface:
