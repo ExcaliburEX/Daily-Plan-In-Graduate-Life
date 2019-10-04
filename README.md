@@ -1,11 +1,13 @@
-# 9
+# 2019
 - [柯摩的BLOG](https://www.kemo.xyz) 
 - [知乎专栏：柯摩的世界](https://zhuanlan.zhihu.com/c_1157679453546053632)
 - <a href="https://weibo.com/u/5339619827/home?wvr=5" target="_blank"><img src="https://i.loli.net/2019/10/03/EpeGPqVW2yZHbIz.png" width = "30"/></a>
 
-<!-- TOC -->autoauto- [9](#9)auto    - [<font face="Times New Romans">9.26</font>](#font-facetimes-new-romans926font)auto    - [<font face="Times New Romans">9.27</font>](#font-facetimes-new-romans927font)auto    - [<font face="Times New Romans">9.28</font>](#font-facetimes-new-romans928font)auto    - [<font face="Times New Romans">9.29</font>](#font-facetimes-new-romans929font)auto    - [<font face="Times New Romans">9.30</font>](#font-facetimes-new-romans930font)auto    - [<font face="Times New Romans">10.1</font>](#font-facetimes-new-romans101font)auto    - [<font face="Times New Romans">10.2</font>](#font-facetimes-new-romans102font)auto    - [<font face="Times New Romans">10.2</font>](#font-facetimes-new-romans102font-1)autoauto<!-- /TOC -->
+
 
 ![](https://img.shields.io/badge/Followers-666-brightgreen)![](https://img.shields.io/badge/Rating-10000-orange)![](https://img.shields.io/badge/chat-6666-blue)
+[![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://your-donate-link)[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) ![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202019%20Name&labelColor=informational&color=033450) [![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:912011727@qq.com) ![Apache 2.0 License](https://img.shields.io/static/v1.svg?label=📃%20License&message=Apache-2.0&color=informational) ![GPLv3](https://img.shields.io/static/v1.svg?label=📃%20License&message=GPL%20v3.0&color=informational) ![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) [![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U)  
+
 
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
 ![me](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/me.jpg)
@@ -60,7 +62,7 @@
 > **实验室为某人打掩护，一起约去游密室，看《我和我的祖国》，吃了快关门的烤肉自助。**
 
 
-<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101139.jpg" width = "300"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101154.jpg" width = "300"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101158.jpg" width = "300"/>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101139.jpg" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101154.jpg" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101158.jpg" width = "290"/>
 
 
 - [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
@@ -96,7 +98,7 @@
 - [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent:
 - [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
 
-## <font face="Times New Romans">10.2</font>
+## <font face="Times New Romans">10.3</font>
 
 > **记了一天的账单以及个人BLOG的更新优化。思考如何更新日常，工作流程应该是怎样最好。**
 
@@ -109,7 +111,7 @@
 - [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent:
 - [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
 
-## <font face="Times New Romans">10.2</font>
+## <font face="Times New Romans">10.4</font>
 > **25岁生日。与往常没什么不同，居然吃了一顿🍔,好似背叛了520全体员工的约定。。。** 
 ![微信图片_20191004195644.jpg](https://i.loli.net/2019/10/04/TrmaMbpELwJPiXY.jpg)
 :sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
