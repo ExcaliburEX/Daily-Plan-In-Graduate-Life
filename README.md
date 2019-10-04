@@ -1,7 +1,9 @@
-# 2019
+# 9
 - [柯摩的BLOG](https://www.kemo.xyz) 
 - [知乎专栏：柯摩的世界](https://zhuanlan.zhihu.com/c_1157679453546053632)
 - <a href="https://weibo.com/u/5339619827/home?wvr=5" target="_blank"><img src="https://i.loli.net/2019/10/03/EpeGPqVW2yZHbIz.png" width = "30"/></a>
+
+<!-- TOC -->autoauto- [9](#9)auto    - [<font face="Times New Romans">9.26</font>](#font-facetimes-new-romans926font)auto    - [<font face="Times New Romans">9.27</font>](#font-facetimes-new-romans927font)auto    - [<font face="Times New Romans">9.28</font>](#font-facetimes-new-romans928font)auto    - [<font face="Times New Romans">9.29</font>](#font-facetimes-new-romans929font)auto    - [<font face="Times New Romans">9.30</font>](#font-facetimes-new-romans930font)auto    - [<font face="Times New Romans">10.1</font>](#font-facetimes-new-romans101font)auto    - [<font face="Times New Romans">10.2</font>](#font-facetimes-new-romans102font)auto    - [<font face="Times New Romans">10.2</font>](#font-facetimes-new-romans102font-1)autoauto<!-- /TOC -->
 
 ![](https://img.shields.io/badge/Followers-666-brightgreen)![](https://img.shields.io/badge/Rating-10000-orange)![](https://img.shields.io/badge/chat-6666-blue)
 
@@ -94,5 +96,33 @@
 - [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent:
 - [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
 
+## <font face="Times New Romans">10.2</font>
 
+> **记了一天的账单以及个人BLOG的更新优化。思考如何更新日常，工作流程应该是怎样最好。**
+
+
+- [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
+- [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream:
+- [ ] <font color=#00FF00>**pytorch**</font>：难受啊飝:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#66CDAA>**LeetCode**</font>：难受啊飝+1:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#8B658B>**日语**</font>：待议:zzz::zzz::zzz::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed:
+- [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent:
+- [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
+
+## <font face="Times New Romans">10.2</font>
+> **25岁生日。与往常没什么不同，居然吃了一顿🍔,好似背叛了520全体员工的约定。。。** 
+![微信图片_20191004195644.jpg](https://i.loli.net/2019/10/04/TrmaMbpELwJPiXY.jpg)
+:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
+
+
+
+- [ ] <font color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
+- [ ] <font color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream:
+- [ ] <font color=#00FF00>**pytorch**</font>：难受啊飝:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:::trollface:::trollface:::trollface::trollface:
+- [ ] <font color=#66CDAA>**LeetCode**</font>：难受啊飝+1:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+- [ ] <font color=#8B658B>**日语**</font>：待议:zzz::zzz::zzz::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed::disappointed:
+- [ ] <font color=#B22222>**口琴**</font>：什么时候才能开始半音阶口琴的练习:disappointed::smiling_imp::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent::innocent:
+- [ ] <font color=#9400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
+:broken_heart:
+:broken_heart:
 
