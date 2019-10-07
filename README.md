@@ -128,3 +128,10 @@
 :broken_heart:
 :broken_heart:
 
+
+## <font face="Times New Romans">10.5</font>
+> **与朱，仑清晨出发，第一次去BW。印象最深刻的还是见到松本梨香，再次唱响那一首めざせポケモンマスター。**
+![微信图片_20191007100323.jpg](https://i.loli.net/2019/10/07/c4JKlVjpHIPWBYx.jpg)
+
+## <font face="Times New Romans">10.6</font>
+> **云逛展的一天** 
