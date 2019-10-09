@@ -4,7 +4,7 @@
 - <a href="https://weibo.com/u/5339619827/home?wvr=5" target="_blank"><img src="https://i.loli.net/2019/10/03/EpeGPqVW2yZHbIz.png" width = "30"/></a>
 
 
-[9.26](#9.26)
+[9.26](#926)
 
 
 ![](https://img.shields.io/badge/Followers-666-brightgreen)![](https://img.shields.io/badge/Rating-10000-orange)![](https://img.shields.io/badge/chat-6666-blue)
