@@ -8,90 +8,90 @@
 [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://your-donate-link)[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) ![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202019%20Name&labelColor=informational&color=033450) [![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:912011727@qq.com) ![Apache 2.0 License](https://img.shields.io/static/v1.svg?label=📃%20License&message=Apache-2.0&color=informational) ![GPLv3](https://img.shields.io/static/v1.svg?label=📃%20License&message=GPL%20v3.0&color=informational) ![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) [![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U)  
 
 
-<table>
+<table border = "1"  >
     <tr>
-        <td>2019年9月</td>
-        <td>学习|健身</td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
+               <td width= "70" align="center" >2019年9月</td>
+                <td width= "70" align="center" >学习|健身</td>
+                <td width= "70" align="center" > </td>
+                <td width= "70" align="center" > </td>
+                <td width= "70" align="center" > </td>
+                <td width= "70" align="center" > </td>
+                <td width= "70" align="center" > </td>
+                <td width= "70" align="center" > </td>
+                <td width= "70" align="center" > </td>
+                <td width= "70" align="center" > </td>
     </tr>
     <tr>
-        <td>9.1</td>
-        <td>9.2</td>
-        <td>9.3</td>
-        <td>9.4</td>
-        <td>9.5</td>
-        <td>9.6</td>
-        <td>9.7</td>
-        <td>9.8</td>
-        <td>9.9</td>
-        <td>9.10</td>
+                <td width= "70" align="center" >9.1</td>
+                <td width= "70" align="center" >9.2</td>
+                <td width= "70" align="center" >9.3</td>
+                <td width= "70" align="center" >9.4</td>
+                <td width= "70" align="center" >9.5</td>
+                <td width= "70" align="center" >9.6</td>
+                <td width= "70" align="center" >9.7</td>
+                <td width= "70" align="center" >9.8</td>
+                <td width= "70" align="center" >9.9</td>
+                <td width= "70" align="center" >9.10</td>
     </tr>
     <tr>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
     </tr>
     <tr>
-        <td>9.11</td>
-        <td>9.12</td>
-        <td>9.13</td>
-        <td>9.14</td>
-        <td>9.15</td>
-        <td>9.16</td>
-        <td>9.17</td>
-        <td>9.18</td>
-        <td>9.19</td>
-        <td>9.20</td>
+                <td width= "70" align="center" >9.11</td>
+                <td width= "70" align="center" >9.12</td>
+                <td width= "70" align="center" >9.13</td>
+                <td width= "70" align="center" >9.14</td>
+                <td width= "70" align="center" >9.15</td>
+                <td width= "70" align="center" >9.16</td>
+                <td width= "70" align="center" >9.17</td>
+                <td width= "70" align="center" >9.18</td>
+                <td width= "70" align="center" >9.19</td>
+                <td width= "70" align="center" >9.20</td>
     </tr>
     <tr>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
     </tr>
     <tr>
-        <td>9.21</td>
-        <td>9.22</td>
-        <td>9.23</td>
-        <td>9.24</td>
-        <td>9.25</td>
-        <td>9.26</td>
-        <td>9.27</td>
-        <td>9.28</td>
-        <td>9.29</td>
-        <td>9.30</td>
+                <td width= "70" align="center" >9.21</td>
+                <td width= "70" align="center" >9.22</td>
+                <td width= "70" align="center" >9.23</td>
+                <td width= "70" align="center" >9.24</td>
+                <td width= "70" align="center" >9.25</td>
+                <td width= "70" align="center" >9.26</td>
+                <td width= "70" align="center" >9.27</td>
+                <td width= "70" align="center" >9.28</td>
+                <td width= "70" align="center" >9.29</td>
+                <td width= "70" align="center" >9.30</td>
     </tr>
     <tr>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td>😛</td>
-        <td> <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">🌟</a> | <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">❎</a> </td>
-        <td><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">🌟</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">❎</a></td>
-        <td><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">⭐️</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">❎</a></td>
-        <td><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">⭐️</a>|  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">❎</a></td>
-        <td><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">⭐️</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">❎</a></td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" >😛</td>
+                <td width= "70" align="center" > <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">🌟</a> | <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">❎</a> </td>
+                <td width= "70" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">🌟</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">❎</a></td>
+                <td width= "70" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">⭐️</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">❎</a></td>
+                <td width= "70" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">⭐️</a>|  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">❎</a></td>
+                <td width= "70" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">⭐️</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">❎</a></td>
     </tr>
 </table>
 
