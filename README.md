@@ -87,11 +87,11 @@
                  <td width= "100" align="center" >😛</td>
                  <td width= "100" align="center" >😛</td>
                  <td width= "100" align="center" >😛</td>
-                 <td width= "100" align="center" > <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">🌟</a> | <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">❎</a> </td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">🌟</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">❎</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">⭐️</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">❎</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">⭐️</a>|  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">❎</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">⭐️</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">❎</a></td>
     </tr>
 </table>
 
