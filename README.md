@@ -7,6 +7,10 @@
 ![](https://img.shields.io/badge/Followers-666-brightgreen)![](https://img.shields.io/badge/Rating-10000-orange)![](https://img.shields.io/badge/chat-6666-blue)
 [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://your-donate-link)[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) ![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202019%20Name&labelColor=informational&color=033450) [![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:912011727@qq.com) ![Apache 2.0 License](https://img.shields.io/static/v1.svg?label=📃%20License&message=Apache-2.0&color=informational) ![GPLv3](https://img.shields.io/static/v1.svg?label=📃%20License&message=GPL%20v3.0&color=informational) ![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) [![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U)  
 
+- **完成度`<50%`: :stars:**
+- **完成度`50%~80%`: :star:**
+- **完成度`80%~100%`: 🌟**
+
 # ♎️ 2019年9月
 <table>
     <tr>     
