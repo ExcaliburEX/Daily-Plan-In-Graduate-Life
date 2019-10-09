@@ -4,20 +4,96 @@
 - <a href="https://weibo.com/u/5339619827/home?wvr=5" target="_blank"><img src="https://i.loli.net/2019/10/03/EpeGPqVW2yZHbIz.png" width = "30"/></a>
 
 
-[9.26](#926)
-
-
 ![](https://img.shields.io/badge/Followers-666-brightgreen)![](https://img.shields.io/badge/Rating-10000-orange)![](https://img.shields.io/badge/chat-6666-blue)
 [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://your-donate-link)[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) ![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202019%20Name&labelColor=informational&color=033450) [![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:912011727@qq.com) ![Apache 2.0 License](https://img.shields.io/static/v1.svg?label=📃%20License&message=Apache-2.0&color=informational) ![GPLv3](https://img.shields.io/static/v1.svg?label=📃%20License&message=GPL%20v3.0&color=informational) ![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) [![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U)  
 
- 2019年9月 | 学习\|健身 |       |       |       |                            |                            |                            |                            |                            
- --------- | ---------- | ----- | ----- | ----- | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- 
- 9\.1      | 9\.2       | 9\.3  | 9\.4  | 9\.5  | 9\.6                       | 9\.7                       | 9\.8                       | 9\.9                       | 9\.10                      
- 😛        | 😛         | 😛    | 😛    | 😛    | 😛                         | 😛                         | 😛                         | 😛                         | 😛                         
- 9\.11     | 9\.12      | 9\.13 | 9\.14 | 9\.15 | 9\.16                      | 9\.17                      | 9\.18                      | 9\.19                      | 9\.20                      
- 😛        | 😛         | 😛    | 😛    | 😛    | 😛                         | 😛                         | 😛                         | 😛                         | 😛                         
- 9\.21     | 9\.22      | 9\.23 | 9\.24 | 9\.25 | 9\.26                      | 9\.27                      | 9\.28                      | 9\.29                      | 9\.30                      
- 😛        | 😛         | 😛    | 😛    | 😛    |[🌟](##9.26) \|  [❎](#9.26) | [🌟](#9.27) \|  [❎](#9.27) | [🌠](#9.28) \|  [❎](#9.28) | [🌠](#9.29) \|  [❎](#9.29) | [🌠](#9.30) \|  [❎](#9.30) 
+
+<table>
+    <tr>
+        <td>2019年9月</td>
+        <td>学习|健身</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>9.1</td>
+        <td>9.2</td>
+        <td>9.3</td>
+        <td>9.4</td>
+        <td>9.5</td>
+        <td>9.6</td>
+        <td>9.7</td>
+        <td>9.8</td>
+        <td>9.9</td>
+        <td>9.10</td>
+    </tr>
+    <tr>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+    </tr>
+    <tr>
+        <td>9.11</td>
+        <td>9.12</td>
+        <td>9.13</td>
+        <td>9.14</td>
+        <td>9.15</td>
+        <td>9.16</td>
+        <td>9.17</td>
+        <td>9.18</td>
+        <td>9.19</td>
+        <td>9.20</td>
+    </tr>
+    <tr>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+    </tr>
+    <tr>
+        <td>9.21</td>
+        <td>9.22</td>
+        <td>9.23</td>
+        <td>9.24</td>
+        <td>9.25</td>
+        <td>9.26</td>
+        <td>9.27</td>
+        <td>9.28</td>
+        <td>9.29</td>
+        <td>9.30</td>
+    </tr>
+    <tr>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>😛</td>
+        <td>[🌟](#926) \|  [❎](#926) </td>
+        <td>[🌟](#927) \|  [❎](#927)</td>
+        <td>[🌟](#928) \|  [❎](#928)</td>
+        <td>[🌟](#929) \|  [❎](#929)</td>
+        <td>[🌟](#930) \|  [❎](#930)</td>
+    </tr>
+</table>
 
 
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
