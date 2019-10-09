@@ -3,7 +3,14 @@
 - [知乎专栏：柯摩的世界](https://zhuanlan.zhihu.com/c_1157679453546053632)
 - <a href="https://weibo.com/u/5339619827/home?wvr=5" target="_blank"><img src="https://i.loli.net/2019/10/03/EpeGPqVW2yZHbIz.png" width = "30"/></a>
 
-
+| 2019年9月 | 学习\|健身 |
+|---------|--------|
+| 9\.1    | 9\.2   | 9\.3  | 9\.4  | 9\.5  | 9\.6  | 9\.7  | 9\.8  | 9\.9  | 9\.10 |
+|         |        |       |       |       |       |       |       |       |       |
+| 9\.11   | 9\.12  | 9\.13 | 9\.14 | 9\.15 | 9\.16 | 9\.17 | 9\.18 | 9\.19 | 9\.20 |
+|         |        |       |       |       |       |       |       |       |       |
+| 9\.21   | 9\.22  | 9\.23 | 9\.24 | 9\.25 | 9\.26 | 9\.27 | 9\.28 | 9\.29 | 9\.30 |
+|         |        |       |       |       |* [🌟](#9.26) \| * [❎](#9.26)  |* [🌟](#9.27) \| * [❎](#9.27)|* [🌠](#9.28) \| * [❎](#9.28)|* [🌠](#9.29) \| * [❎](#9.29)|* [🌠](#9.30) \| * [❎](#9.30)|
 
 ![](https://img.shields.io/badge/Followers-666-brightgreen)![](https://img.shields.io/badge/Rating-10000-orange)![](https://img.shields.io/badge/chat-6666-blue)
 [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://your-donate-link)[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) ![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202019%20Name&labelColor=informational&color=033450) [![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:912011727@qq.com) ![Apache 2.0 License](https://img.shields.io/static/v1.svg?label=📃%20License&message=Apache-2.0&color=informational) ![GPLv3](https://img.shields.io/static/v1.svg?label=📃%20License&message=GPL%20v3.0&color=informational) ![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) [![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U)  
@@ -131,7 +138,18 @@
 
 ## <font face="Times New Romans">10.5</font>
 > **与朱，仑清晨出发，第一次去BW。印象最深刻的还是见到松本梨香，再次唱响那一首めざせポケモンマスター。**
+
 ![微信图片_20191007100323.jpg](https://i.loli.net/2019/10/07/c4JKlVjpHIPWBYx.jpg)
 
 ## <font face="Times New Romans">10.6</font>
 > **云逛展的一天** 
+
+## <font face="Times New Romans">10.7</font>
+> **上班第一天，继续前行。健身房试水第一天**
+
+
+## <font face="Times New Romans">10.8</font>
+
+- [x] <font color=#1E90FF>**吴恩达的视频**</font>：神经网络结束😈😈😈
+- [x] <font color=#87CEFA>**健身**</font>：完成第一次训练，胸与肩
+
