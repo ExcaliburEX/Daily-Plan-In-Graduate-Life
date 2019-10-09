@@ -87,11 +87,11 @@
         <td>😛</td>
         <td>😛</td>
         <td>😛</td>
-        <td> <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">🌟</a> | [❎](#926) </td>
-        <td>[🌟](#927) \|  [❎](#927)</td>
-        <td>[🌟](#928) \|  [❎](#928)</td>
-        <td>[🌟](#929) \|  [❎](#929)</td>
-        <td>[🌟](#930) \|  [❎](#930)</td>
+        <td> <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">🌟</a> | <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">❎</a> </td>
+        <td><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">🌟</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#927">❎</a></td>
+        <td><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">⭐️</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#928">❎</a></td>
+        <td><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">⭐️</a>|  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#929">❎</a></td>
+        <td><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">⭐️</a> |  <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#930">❎</a></td>
     </tr>
 </table>
 
