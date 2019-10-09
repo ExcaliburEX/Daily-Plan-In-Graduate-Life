@@ -87,7 +87,7 @@
         <td>😛</td>
         <td>😛</td>
         <td>😛</td>
-        <td>[🌟](#926) \|  [❎](#926) </td>
+        <td> <a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#926">🌟</a> | [❎](#926) </td>
         <td>[🌟](#927) \|  [❎](#927)</td>
         <td>[🌟](#928) \|  [❎](#928)</td>
         <td>[🌟](#929) \|  [❎](#929)</td>
