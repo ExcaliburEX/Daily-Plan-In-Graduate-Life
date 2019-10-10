@@ -313,6 +313,6 @@
 > <font face="Noto Serif SC">**1️⃣ 构思以及调试一上午的:dash:月份表格记录项<br>2️⃣ 第一次见导师，各自分享自己的调查，自己分享的是论文快捷写作的工具。:sparkling_heart:<br>3️⃣ 不知怎么的，又是一顿聚餐。和师兄聊了一堆岛国风情，好像把其他人撂下了，还有结婚买房、、、💫以及一杯免费的Luckin☕️**</font>
 
 
-<img src= "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E8%82%89%E8%9F%B91.jpg" width="330"/><img src= "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E8%82%89%E8%9F%B91.jpg" width="330"/>
-![201910093](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/luckin.jpg)
-![201910094](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E6%88%91%E4%BB%AC.jpg)
+<img src= "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/肉蟹1.jpg" width="330"/><img src= "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/肉蟹2.jpg" width="330"/>
+![201910093](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/luckin.jpg)
+![201910094](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/我们.jpg)
