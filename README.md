@@ -118,7 +118,7 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19106">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19106">❎</a></td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">✅</a></td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">✅</a></td>
-                 <td width= "100" align="center" >🌏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19109">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">❎</td>
                  <td width= "100" align="center" >🌏</td>
     </tr>
     <tr>
@@ -310,8 +310,7 @@
 - [x] <font face="Noto Serif SC" color=#87CEFA>**健身**</font>：完成第一次训练，胸与肩
 
 ## <font face="Times New Romans">19.10.9</font>
-> <font face="Noto Serif SC">
-> **1️⃣ 构思以及调试一上午的:dash:月份表格记录项**<br>**2️⃣ 第一次见导师，各自分享自己的调查，自己分享的是论文快捷写作的工具。:sparkling_heart:**<br>**3️⃣ 不知怎么的，又是一顿聚餐。和师兄聊了一堆岛国风情，好像把其他人撂下了，还有结婚买房、、、💫以及一杯免费的Luckin☕️ **</font>
+> <font face="Noto Serif SC">**1️⃣ 构思以及调试一上午的:dash:月份表格记录项<br>2️⃣ 第一次见导师，各自分享自己的调查，自己分享的是论文快捷写作的工具。:sparkling_heart:<br>3️⃣ 不知怎么的，又是一顿聚餐。和师兄聊了一堆岛国风情，好像把其他人撂下了，还有结婚买房、、、💫以及一杯免费的Luckin☕️**</font>
 
 
 <img src= "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E8%82%89%E8%9F%B91.jpg" width="330"/><img src= "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E8%82%89%E8%9F%B91.jpg" width="330"/>
