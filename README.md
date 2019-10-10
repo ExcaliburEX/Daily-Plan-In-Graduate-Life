@@ -1,17 +1,17 @@
-# 2019
-- [柯摩的BLOG](https://www.kemo.xyz) 
-- [知乎专栏：柯摩的世界](https://zhuanlan.zhihu.com/c_1157679453546053632)
+# **2019**
+- <font face="Noto Serif SC" color=#1E90FF>[柯摩的BLOG](https://www.kemo.xyz) </font>
+- <font face="Noto Serif SC" color=#1E90FF>[知乎专栏：柯摩的世界](https://zhuanlan.zhihu.com/c_1157679453546053632)</font>
 - <a href="https://weibo.com/u/5339619827/home?wvr=5" target="_blank"><img src="https://i.loli.net/2019/10/03/EpeGPqVW2yZHbIz.png" width = "30"/></a>
 
 
 ![](https://img.shields.io/badge/Followers-666-brightgreen)![](https://img.shields.io/badge/Rating-10000-orange)![](https://img.shields.io/badge/chat-6666-blue)
 [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://your-donate-link)[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) ![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202019%20Name&labelColor=informational&color=033450) [![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:912011727@qq.com) ![Apache 2.0 License](https://img.shields.io/static/v1.svg?label=📃%20License&message=Apache-2.0&color=informational) ![GPLv3](https://img.shields.io/static/v1.svg?label=📃%20License&message=GPL%20v3.0&color=informational) ![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) [![Tweet about this](https://img.shields.io/static/v1.svg?label=Tweet%20about%20this&message=🎵&color=blue&logo=twitter&style=social)](https://ctt.ac/5ET9U)  
 
-- **完成度`<50%`: :stars:**
-- **完成度`50%~80%`: :star:**
-- **完成度`80%~100%`: 🌟**
+- <font face="Noto Serif SC" color=#1E90FF>**完成度`<50%`: 🌠**</font>
+- <font face="Noto Serif SC" color=#1E90FF>**完成度`50%~80%`: :star:**</font>
+- <font face="Noto Serif SC" color=#1E90FF>**完成度`80%~100%`: 🌟**</font>
 
-# ♎️ 2019年9月
+# ♎️ <font face="Times New Romans">2019年9月
 <table>
     <tr>     
                 <td colspan="2" width= "100" align="center" >2019年9月</td>
@@ -110,14 +110,14 @@
                  <td width= "100" align="center" >10.10</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101">:stars:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101">❎</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19102">:stars:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19102">❎</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19103">:stars:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19103">❎</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19104">:stars:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19104">❎</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19105">:stars:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19105">❎</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19106">:stars:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19106">❎</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">:stars:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">:white_check_mark:</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">:star2:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">:white_check_mark:</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19102">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19102">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19103">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19103">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19104">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19104">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19105">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19105">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19106">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19106">❎</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">✅</a></td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">✅</a></td>
                  <td width= "100" align="center" >🌏</td>
                  <td width= "100" align="center" >🌏</td>
     </tr>
@@ -170,10 +170,11 @@
                  <td width= "100" align="center" >🌏</td>
     </tr>
 </table>
+</font>
 
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
 ![me](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/me.jpg)
-记录生活:sparkling_heart::sparkling_heart::sparkling_heart:
+<font face="Noto Serif SC">记录生活</font>:sparkling_heart::sparkling_heart::sparkling_heart:
 :revolving_hearts::revolving_hearts::revolving_hearts:
 
 ## <font face="Times New Romans">19.9.26</font>
@@ -187,8 +188,7 @@
 - [ ] <font face="Noto Serif SC" color=#199400D3>**恋爱**</font>：这辈子恐怕没了...:broken_heart::broken_heart::broken_heart:
 
 ## <font face="Times New Romans">19.9.27</font>
-上午是计科院篮球赛，下午是云从的宣讲会，晚上是新闻中心聚餐。
-也许将来可以去云从实习，学姐确实很强，数几匹马的问题以及超级露骨的问题，也遇到1个可以考虑的。Anyway，生活依旧继续。
+> <font face="Noto Serif SC">**上午是计科院篮球赛，下午是云从的宣讲会，晚上是新闻中心聚餐。也许将来可以去云从实习，学姐确实很强，数几匹马的问题以及超级露骨的问题，也遇到1个可以考虑的。Anyway，生活依旧继续。**</font>
 
 - [x] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：Logistic回归和正则化
 - [x] <font face="Noto Serif SC" color=#87CEFA>**西瓜书**</font>：大概看不下去了:hear_no_evil:
@@ -199,7 +199,7 @@
 - [ ] <font face="Noto Serif SC" color=#199400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart:
 
 ## <font face="Times New Romans">19.9.28</font>
-当了一下午的志愿者，认识了个独墅湖的研三公卫的帅哥，跟司机三个人侃大山一下午，领导丢是不会丢的。聊到公务员，事业单位，朝晖，SBS的丑闻(想想自己单身可能还是因为道德法则的约束吧，什么时候变坏了就可以左拥右抱了)，苏大附院的实名举报，和帅哥交流了一下经验，要换个新发型新装扮才能找到女朋友。
+> <font face="Noto Serif SC">**当了一下午的志愿者，认识了个独墅湖的研三公卫的帅哥，跟司机三个人侃大山一下午，领导丢是不会丢的。聊到公务员，事业单位，朝晖，SBS的丑闻(想想自己单身可能还是因为道德法则的约束吧，什么时候变坏了就可以左拥右抱了)，苏大附院的实名举报，和帅哥交流了一下经验，要换个新发型新装扮才能找到女朋友。**</font>
 ![20190928](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/20190928.jpg)
 - [ ] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile:
 - [ ] <font face="Noto Serif SC" color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream:
@@ -210,7 +210,7 @@
 - [ ] <font face="Noto Serif SC" color=#199400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
 
 ## <font face="Times New Romans">19.9.29</font>
-> 换了新发型，感觉不错
+> <font face="Noto Serif SC">**换了新发型，感觉不错**</font>
 
 - [ ] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
 - [ ] <font face="Noto Serif SC" color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream:
@@ -221,7 +221,7 @@
 - [ ] <font face="Noto Serif SC" color=#199400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
 
 ## <font face="Times New Romans">19.9.30</font>
-> **实验室为某人打掩护，一起约去游密室，看《我和我的祖国》，吃了快关门的烤肉自助。**
+> <font face="Noto Serif SC">**实验室为某人打掩护，一起约去游密室，看《我和我的祖国》，吃了快关门的烤肉自助。**</font>
 
 
 <img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101139.jpg" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101154.jpg" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101158.jpg" width = "290"/>
@@ -236,7 +236,7 @@
 - [ ] <font face="Noto Serif SC" color=#199400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
 
 ## <font face="Times New Romans">19.10.1</font>
-> **深夜，五人会。大雨。实验室看国庆阅兵，夜晚的加餐面，晚间宿舍与昆撸同看烟火大会。**
+> <font face="Noto Serif SC">**深夜，五人会。大雨。实验室看国庆阅兵，夜晚的加餐面，晚间宿舍与昆撸同看烟火大会。**</font>
 
 <img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101200.jpg" width = "375"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101205.jpg" width = "375"/>
 <img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191003101203.jpg" />
@@ -250,7 +250,7 @@
 - [ ] <font face="Noto Serif SC" color=#199400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
 
 ## <font face="Times New Romans">19.10.2</font>
-> **望天，自问，自疑，自惑，何去何斗何果。**
+> <font face="Noto Serif SC">**望天，自问，自疑，自惑，何去何斗何果。**</font>
 
 - [ ] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
 - [ ] <font face="Noto Serif SC" color=#87CEFA>**西瓜书**</font>：更不用说了:scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream:
@@ -262,7 +262,7 @@
 
 ## <font face="Times New Romans">19.10.3</font>
 
-> **记了一天的账单以及个人BLOG的更新优化。思考如何更新日常，工作流程应该是怎样最好。**
+> <font face="Noto Serif SC">**记了一天的账单以及个人BLOG的更新优化。思考如何更新日常，工作流程应该是怎样最好。**</font>
 
 
 - [ ] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：今天就没咋看了:sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
@@ -274,7 +274,8 @@
 - [ ] <font face="Noto Serif SC" color=#199400D3>**恋爱**</font>：老衲已遁入空门...:broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart::broken_heart:
 
 ## <font face="Times New Romans">19.10.4</font>
-> **25岁生日。与往常没什么不同，居然吃了一顿🍔,好似背叛了520全体员工的约定。。。** 
+> <font face="Noto Serif SC">**25岁生日。与往常没什么不同，居然吃了一顿🍔,好似背叛了520全体员工的约定。。。** </font>
+
 ![微信图片_20191004195644.jpg](https://i.loli.net/2019/10/04/TrmaMbpELwJPiXY.jpg)
 :sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
 
@@ -292,15 +293,15 @@
 
 
 ## <font face="Times New Romans">19.10.5</font>
-> **与朱，仑清晨出发，第一次去BW。印象最深刻的还是见到松本梨香，再次唱响那一首めざせポケモンマスター。**
+> <font face="Noto Serif SC">**与朱，仑清晨出发，第一次去BW。印象最深刻的还是见到松本梨香，再次唱响那一首めざせポケモンマスター。**</font>
 
 ![微信图片_20191007100323.jpg](https://i.loli.net/2019/10/07/c4JKlVjpHIPWBYx.jpg)
 
 ## <font face="Times New Romans">19.10.6</font>
-> **云逛展的一天** 
+> <font face="Noto Serif SC">**云逛展的一天** </font>
 
 ## <font face="Times New Romans">19.10.7</font>
-> **上班第一天，继续前行。健身房试水第一天**
+> <font face="Noto Serif SC">**上班第一天，继续前行。健身房试水第一天**</font>
 
 
 ## <font face="Times New Romans">19.10.8</font>
@@ -308,3 +309,11 @@
 - [x] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：神经网络结束😈😈😈
 - [x] <font face="Noto Serif SC" color=#87CEFA>**健身**</font>：完成第一次训练，胸与肩
 
+## <font face="Times New Romans">19.10.9</font>
+> <font face="Noto Serif SC">
+> **1️⃣ 构思以及调试一上午的:dash:月份表格记录项**<br>**2️⃣ 第一次见导师，各自分享自己的调查，自己分享的是论文快捷写作的工具。:sparkling_heart:**<br>**3️⃣ 不知怎么的，又是一顿聚餐。和师兄聊了一堆岛国风情，好像把其他人撂下了，还有结婚买房、、、💫以及一杯免费的Luckin☕️ **</font>
+
+
+<img src= "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E8%82%89%E8%9F%B91.jpg" width="330"/><img src= "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E8%82%89%E8%9F%B91.jpg" width="330"/>
+![201910093](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/luckin.jpg)
+![201910094](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E6%88%91%E4%BB%AC.jpg)
