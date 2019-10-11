@@ -120,7 +120,7 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">✅</a></td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">✅</a></td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19109">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">❎</td>
-                 <td width= "100" align="center" >🌏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19109">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">✅</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >10.11</td>
@@ -312,7 +312,7 @@
 - [x] <font face="Noto Serif SC" color=#87CEFA>**健身**</font>：完成第一次训练，胸与肩
 
 ## <font face="Times New Romans">19.10.9</font>
-**<font face="Noto Serif SC">1️⃣ 构思以及调试一上午的:dash:月份表格记录项<br>2️⃣ 第一次见导师，各自分享自己的调查，自己分享的是论文快捷写作的工具。:sparkling_heart:<br>3️⃣ 不知怎么的，又是一顿聚餐。和师兄聊了一堆岛国风情，好像把其他人撂下了，还有结婚买房、、、💫以及一杯免费的Luckin☕️</font>**
+> **<font face="Noto Serif SC">1️⃣ 构思以及调试一上午的:dash:月份表格记录项<br>2️⃣ 第一次见导师，各自分享自己的调查，自己分享的是论文快捷写作的工具。:sparkling_heart:<br>3️⃣ 不知怎么的，又是一顿聚餐。和师兄聊了一堆岛国风情，好像把其他人撂下了，还有结婚买房、、、💫以及一杯免费的Luckin☕️</font>**
 
 
 <img src= "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/肉蟹1.jpg" width="360"/><img src= "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/肉蟹2.jpg" width="360"/>
@@ -320,7 +320,7 @@
 ![201910094](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/我们.jpg)
 
 ## <font face="Times New Romans">19.10.10</font>
-**<font face="Noto Serif SC">:one:忙碌的一天，`TensorFlow 2.0`出了，是学`TensorFlow 2.0`还是`PyTorch`呢🤔🤔。<br>:two:健身第二天。<br></font>:three:刷了知乎上很多奇怪的问题，`为什么现在很多研究生退学`，`有哪些舔狗的反击`，`为什么现在很多男生不追女生`**
+> **<font face="Noto Serif SC">:one:忙碌的一天，`TensorFlow 2.0`出了，是学`TensorFlow 2.0`还是`PyTorch`呢🤔🤔。<br>:two:健身第二天。<br></font>:three:刷了知乎上很多奇怪的问题，`为什么现在很多研究生退学`，`有哪些舔狗的反击`，`为什么现在很多男生不追女生`**
 
 ![191010](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/191010健身结束.jpg)
 
