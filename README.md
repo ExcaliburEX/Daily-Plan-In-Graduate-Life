@@ -119,8 +119,8 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19106">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19106">❎</a></td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19107">✅</a></td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">✅</a></td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19109">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19109">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19108">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19109">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19109">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191010">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191010">✅</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >10.11</td>
@@ -135,9 +135,9 @@
                  <td width= "100" align="center" >10.20</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >🌏</td>
-                 <td width= "100" align="center" >🌏</td>
-                 <td width= "100" align="center" >🌏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191011">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191011">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191012">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191012">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191013">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191013">❎</td>
                  <td width= "100" align="center" >🌏</td>
                  <td width= "100" align="center" >🌏</td>
                  <td width= "100" align="center" >🌏</td>
@@ -326,3 +326,26 @@
 
 - [x] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：神经网络参数的反向传播算法
 - [ ] `if Time == Tomorrow: ...`
+
+## <font face="Times New Romans">19.10.11</font>
+> **<font face="Noto Serif SC">几乎是看了一天以前欠下的各种微信文章:neckbeard:</font>**
+
+![食其家](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/20191014食其家.jpg)
+
+<font face="Noto Serif SC">三人无言，静坐。心灰意冷，绝望地，痛苦地聊着追求这种东西怎么就这么难。整个人摊到椅子深处，幻想着远方两个人可以经历的种种，在冰岛看星空，在海南吹着和煦的海风，在秋叶原感受全世界最强大的二次元氛围......一切都是那么地遥不可及，一切都是那么地虚无缥缈，一切都是那么地令人痛苦不堪。如果这是一件如此痛苦的事，何谈幸福而言？放下，是一种解脱。总算有那么一点懂得这句话了。“为什么，为什么？！总是如此艰难，总是在失败的泥沼里挣扎不堪，为什么总是我们失败，为什么总是用自己的热情换来别人的冷酷？！”，不知道是谁歇斯底里的哭腔，使得光渐渐打在我们的脸上，深深的印记就写在上面，来自一种叫“癞蛤蟆”的生物的特有印记，除此以外，什么都没有。
+
+虚伪的笑脸；虚伪的“欢迎来找我聊天”；虚伪的“我很孤独；需要你们来陪伴”；虚伪的“我需要你们的支持”；去特么的我和我的老婆，百合玩笑很好玩？这就是他们的二次元文化。
+
+为什么还要不厌其烦地浏览B博，明明那一张的笑脸对我来说是比哭还难看的东西，一眼都不想多看；明明那些无病呻吟是那么地可笑，“需要有人陪伴，需要有人疼爱”更是虚伪虚伪虚伪......
+全都是去特么的玩暧昧的互动，虚假的发声，虚假的回复，所有人都在假扮着自己的角色，不仅是在现实生活中，甚至在网路(络)上也不例外。
+真嗣，你在哪里，我想拥抱你，我想与你一同被救赎。
+我，受够了。
+
+人生自古多无常，因因缘缘皆有道。莫道雨露沾衣凉，醉醒世间多灿烂。
+</font>
+
+## <font face="Times New Romans">19.10.12</font>
+> **<font face="Noto Serif SC">只是思考，只是，惑、</font>**
+
+## <font face="Times New Romans">19.10.13</font>
+> **<font face="Noto Serif SC">一天，马不停蹄。只是痛苦。夜，七人，火锅会。技术，前途，依旧迷茫。</font>**
