@@ -138,7 +138,7 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191011">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191011">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191012">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191012">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191013">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191013">❎</td>
-                 <td width= "100" align="center" >🌏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191014">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191014">✅</td>
                  <td width= "100" align="center" >🌏</td>
                  <td width= "100" align="center" >🌏</td>
                  <td width= "100" align="center" >🌏</td>
@@ -349,3 +349,8 @@
 
 ## <font face="Times New Romans">19.10.13</font>
 > **<font face="Noto Serif SC">一天，马不停蹄。只是痛苦。夜，七人，火锅会。技术，前途，依旧迷茫。</font>**
+
+## <font face="Times New Romans">19.10.14</font>
+> **<font face="Noto Serif SC">我爱你，无论你，是人，是鬼，是畜，是妖。我爱你，爱你到死，爱到你死，爱到我死，爱到所有人死光光，我依然爱你。</font>**
+
+> **<font face="Noto Serif SC">是冰冻的时分/已过零时的夜晚/往事就像流星刹那划过心房....你忘了吧所有的厮守承诺/谁都是爱得没有一点的把握......</font>**
