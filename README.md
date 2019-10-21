@@ -139,12 +139,12 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191012">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191012">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191013">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191013">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191014">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191014">✅</td>
-                 <td width= "100" align="center" >🌏</td>
-                 <td width= "100" align="center" >🌏</td>
-                 <td width= "100" align="center" >🌏</td>
-                 <td width= "100" align="center" >🌏</td>
-                 <td width= "100" align="center" >🌏</td>
-                 <td width= "100" align="center" >🌏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">✅</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >10.21</td>
@@ -354,3 +354,7 @@
 > **<font face="Noto Serif SC">我爱你，无论你，是人，是鬼，是畜，是妖。我爱你，爱你到死，爱到你死，爱到我死，爱到所有人死光光，我依然爱你。</font>**
 
 > **<font face="Noto Serif SC">是冰冻的时分/已过零时的夜晚/往事就像流星刹那划过心房....你忘了吧所有的厮守承诺/谁都是爱得没有一点的把握......</font>**
+
+## <font face="Times New Romans">19.10.15~20</font>
+
+> **<font face="Noto Serif SC">CNCC2019志愿者，当今最前沿的研究，顶尖的教授专家。三天，很充实。具体[B站动态](https://space.bilibili.com/2142109/dynamic)跟凯哥聊得很开心。周末一天的课，组合数学自嗨型，算法设计水到底。</font>**
