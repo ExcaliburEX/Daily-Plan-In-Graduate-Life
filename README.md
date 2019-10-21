@@ -139,12 +139,12 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191012">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191012">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191013">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191013">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191014">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191014">✅</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191015~20">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19101520">✅</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >10.21</td>
