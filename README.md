@@ -148,7 +148,7 @@
     </tr>
     <tr>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191021">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191021">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191022">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191022">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191022">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191022">✅</td>
                  <td width= "100" align="center" >10.23</td>
                  <td width= "100" align="center" >10.24</td>
                  <td width= "100" align="center" >10.25</td>
@@ -366,7 +366,7 @@
 
 
 ## <font face="Times New Romans">19.10.22</font>
-> **<font face="Noto Serif SC">悠悠人生，寥寥数载，何苦眷恋虚幻凡尘，璀璨繁华，不过今宵一梦。<br>得不到，亦带不走。<br>即舍即离，了脱执念，余生向禅，超脱三界，岂似神仙！<br>　　　　　　　　　　　　　　　　　　　　柯摩 于 2019.10.22 深夜 ​​​</font>**
+> **<font face="Noto Serif SC">悠悠人生，寥寥数载，何苦眷恋虚幻凡尘，璀璨繁华，不过今宵一梦。<br>得不到，亦带不走。<br>即舍即离，了脱执念，余生向禅，超脱三界，岂似神仙！<br>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　柯摩 于 2019.10.22 深夜 ​​​</font>**
 
 
 - [x] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：到了应用机器学习的建议
