@@ -161,8 +161,8 @@
     <tr>
                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191021">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191021">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191022">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191022">✅</td>
-                 <td width= "100" align="center" >🌏</td>
-                 <td width= "100" align="center" >🌏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191023">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191023">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191024">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191024">✅</td>
                  <td width= "100" align="center" >🌏</td>
                  <td width= "100" align="center" >🌏</td>
                  <td width= "100" align="center" >🌏</td>
@@ -372,3 +372,17 @@
 - [x] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：到了应用机器学习的建议
 - [x] <font face="Noto Serif SC" color=#00FF00>**pytorch**</font>：看官方教程，依然看不懂
 - [x] <font face="Noto Serif SC" color=#8B658B>**口琴**</font>：最近一直在看鱼哥的视频
+
+## <font face="Times New Romans">19.10.23</font>
+> **<font face="Noto Serif SC">晚上散了一会步，三个人从南门散到西门，中途穿过各种幽灵小巷，吓得不行。。。。</font>**
+
+- [x] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：机器学习系统设计
+- [x] <font face="Noto Serif SC" color=#00FF00>**pytorch**</font>：kaggle项目刚开始
+- [x] <font face="Noto Serif SC" color=#8B658B>**口琴**</font>：在深夜东侧庭院中开吹一小时
+
+## <font face="Times New Romans">19.10.24</font>
+> **<font face="Noto Serif SC">写了篇文章大体就是之前写的日记，关于哭泣，关于情绪表达，关于如何宽慰自我。🅱️[B站](https://www.bilibili.com/read/cv3828869)，💤[知乎](https://zhuanlan.zhihu.com/p/88249120)，🍷[微博](https://weibo.com/ttarticle/p/show?id=2309404430881858125913#_0)。。。</font>**
+
+- [x] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：支持向量机
+- [x] <font face="Noto Serif SC" color=#00FF00>**pytorch**</font>：kaggle
+- [ ] <font face="Noto Serif SC" color=#8B658B>**口琴**</font>
