@@ -195,6 +195,93 @@
     <tr>
     </tr>
 </table>
+
+# ♐️ 2019.11月
+<table>
+    <tr>     
+                <td colspan="2" width= "100" align="center" >2019.11月</td>
+                <td colspan="2" width= "100" align="center" >学习|健身</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >11.1</td>
+                 <td width= "100" align="center" >11.2</td>
+                 <td width= "100" align="center" >11.3</td>
+                 <td width= "100" align="center" >11.4</td>
+                 <td width= "100" align="center" >11.5</td>
+                 <td width= "100" align="center" >11.6</td>
+                 <td width= "100" align="center" >11.7</td>
+                 <td width= "100" align="center" >11.8</td>
+                 <td width= "100" align="center" >11.11./td>
+                 <td width= "100" align="center" >11.10</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19111">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19111">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19112">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19112">❎</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >11.11</td>
+                 <td width= "100" align="center" >11.12</td>
+                 <td width= "100" align="center" >11.13</td>
+                 <td width= "100" align="center" >11.14</td>
+                 <td width= "100" align="center" >11.15</td>
+                 <td width= "100" align="center" >11.16</td>
+                 <td width= "100" align="center" >11.17</td>
+                 <td width= "100" align="center" >11.18</td>
+                 <td width= "100" align="center" >11.19</td>
+                 <td width= "100" align="center" >11.20</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >11.21</td>
+                 <td width= "100" align="center" >11.22</td>
+                 <td width= "100" align="center" >11.23</td>
+                 <td width= "100" align="center" >11.24</td>
+                 <td width= "100" align="center" >11.25</td>
+                 <td width= "100" align="center" >11.26</td>
+                 <td width= "100" align="center" >11.27</td>
+                 <td width= "100" align="center" >11.28</td>
+                 <td width= "100" align="center" >11.29</td>
+                 <td width= "100" align="center" >11.30</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" >😏</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
 </font>
 
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
@@ -454,4 +541,4 @@
 ## <font face="Times New Romans">19.11.2</font>
 > **<font face="Noto Serif SC"> &emsp;&emsp;校园马拉松日，9KM很累很爽。遇见了圣楠，好开心。一起吃了烤鸭泡饭，幸福！还能送她回宿舍，太棒了！</font>**
 
-<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210045.jpg" style="transform:rotate(90deg);" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210057.jpg" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210054.jpg" style="transform:rotate(90deg);" width = "290"/>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210045.jpg" style="transform:rotate(90deg);" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210057.jpg" style="transform:rotate(90deg);" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210054.jpg" width = "290"/>
