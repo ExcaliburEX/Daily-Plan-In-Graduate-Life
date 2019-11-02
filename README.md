@@ -454,4 +454,4 @@
 ## <font face="Times New Romans">19.11.2</font>
 > **<font face="Noto Serif SC"> &emsp;&emsp;校园马拉松日，9KM很累很爽。遇见了圣楠，好开心。一起吃了烤鸭泡饭，幸福！还能送她回宿舍，太棒了！</font>**
 
-<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210045.jpg" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210057.jpg" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210054.jpg" width = "290"/>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210045.jpg" style="transform:rotate(90deg);" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210057.jpg" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210054.jpg" style="transform:rotate(90deg);" width = "290"/>
