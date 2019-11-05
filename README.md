@@ -182,6 +182,7 @@
                  <td width= "100" align="center" ></td>
                  <td width= "100" align="center" ></td>
     </tr>
+    <tr>
                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191031">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191031">❎</td>
                 <td width= "100" align="center" ></td>
                 <td width= "100" align="center" ></td>
@@ -192,7 +193,6 @@
                 <td width= "100" align="center" ></td>
                 <td width= "100" align="center" ></td>
                 <td width= "100" align="center" ></td>
-    <tr>
     </tr>
 </table>
 
@@ -217,9 +217,9 @@
     <tr>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19111">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19111">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19112">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19112">❎</td>
-                 <td width= "100" align="center" >😏</td>
-                 <td width= "100" align="center" >😏</td>
-                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19113">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19113">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19114">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19114">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19115">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19115">❎</td>
                  <td width= "100" align="center" >😏</td>
                  <td width= "100" align="center" >😏</td>
                  <td width= "100" align="center" >😏</td>
@@ -542,3 +542,14 @@
 > **<font face="Noto Serif SC"> &emsp;&emsp;校园马拉松日，9KM很累很爽。遇见了圣楠，好开心。一起吃了烤鸭泡饭，幸福！还能送她回宿舍，太棒了！</font>**
 
 <img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210045.jpg" style="transform:rotate(90deg);" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210057.jpg" style="transform:rotate(90deg);" width = "290"/><img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191102210054.jpg" width = "290"/>
+
+
+## <font face="Times New Romans">19.11.3</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;累得迷迷糊糊。。。中午我尝试着推给她我刚听到的一首《careless whisper》的粤语版，她很开心。晚上她推给我《初秋和你》，《多想在平庸的生活拥抱你》，这似乎表明了什么。😃</font>**
+
+## <font face="Times New Romans">19.11.4</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;白天我们聊了村上，圭吾，《白夜行》。晚上她又推给我《你笑起来真好看》，这是不是似乎又表明了什么。😄不同的是今天聊到了很晚，真是太幸福了。几度我开心地想要敲桌子，但一想大家都睡着了。明天也许又会是同一时刻呢！</font>**
+
+
+## <font face="Times New Romans">19.11.5</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;今天晚上好期待啊！不过我已经把自己的情事曝光了、、、仑还在说要真挚真诚，屌云说不是钱徐坤就行，朱说我适合文科生，理科姑娘听不懂我说的那些书中的名句。</font>**
