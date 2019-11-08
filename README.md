@@ -211,7 +211,7 @@
                  <td width= "100" align="center" >11.6</td>
                  <td width= "100" align="center" >11.7</td>
                  <td width= "100" align="center" >11.8</td>
-                 <td width= "100" align="center" >11.11./td>
+                 <td width= "100" align="center" >11.9</td>
                  <td width= "100" align="center" >11.10</td>
     </tr>
     <tr>
@@ -220,8 +220,8 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19113">💓</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19113">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19114">💓</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19114">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19115">💓</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19115">❎</td>
-                 <td width= "100" align="center" >😏</td>
-                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19116">💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19116">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19117">💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19117">❎</td>
                  <td width= "100" align="center" >😏</td>
                  <td width= "100" align="center" >😏</td>
                  <td width= "100" align="center" >😏</td>
@@ -552,4 +552,10 @@
 
 
 ## <font face="Times New Romans">19.11.5</font>
-> **<font face="Noto Serif SC"> &emsp;&emsp;今天晚上好期待啊！不过我已经把自己的情事曝光了、、、仑还在说要真挚真诚，屌云说不是钱徐坤就行，朱说我适合文科生，理科姑娘听不懂我说的那些书中的名句。</font>**
+> **<font face="Noto Serif SC"> &emsp;&emsp;今天晚上好期待啊！不过我已经把自己的情事曝光了、、、仑还在说要真挚真诚，屌云说不是钱徐坤就行，朱说我适合文科生，理科姑娘听不懂我说的那些书中的名句。<br><br>&emsp;&emsp;后记，那天晚上聊得太干涩，所有有点崩。。</font>**
+
+## <font face="Times New Romans">19.11.6</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;今日，忧心忡忡，感觉有些冷淡了。邀请情感导师好友太哥助攻，QQ分屏，微信实操，按照她有每日给我推歌的特点，展开攻势，句句直逼心房，虽然我真的不会那么脸红心跳的聊天，不过我也很开心，她也很开心，感觉又进了一大步！</font>**
+
+## <font face="Times New Romans">19.11.7</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;今日送她去车站，去之前我们一起吃了顿饭，尴尬，见到她没话题说。转弯刹车猛了，她贴到了我背上，这触感，太幸福。去到了门口，我原以为这么近了，她可以自己走过去了，但好像没有让我走的意思，真的是一直送到地铁站的门口，难道是给我机会吗？😕</font>**
