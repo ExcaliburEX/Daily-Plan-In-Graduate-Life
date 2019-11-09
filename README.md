@@ -222,8 +222,8 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19115">💓</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19115">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19116">💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19116">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19117">💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19117">❎</td>
-                 <td width= "100" align="center" >😏</td>
-                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19118">💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19118">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19119">💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19119">❎</td>
                  <td width= "100" align="center" >😏</td>
     </tr>
     <tr>
@@ -558,4 +558,12 @@
 > **<font face="Noto Serif SC"> &emsp;&emsp;今日，忧心忡忡，感觉有些冷淡了。邀请情感导师好友太哥助攻，QQ分屏，微信实操，按照她有每日给我推歌的特点，展开攻势，句句直逼心房，虽然我真的不会那么脸红心跳的聊天，不过我也很开心，她也很开心，感觉又进了一大步！</font>**
 
 ## <font face="Times New Romans">19.11.7</font>
-> **<font face="Noto Serif SC"> &emsp;&emsp;今日送她去车站，去之前我们一起吃了顿饭，尴尬，见到她没话题说。转弯刹车猛了，她贴到了我背上，这触感，太幸福。去到了门口，我原以为这么近了，她可以自己走过去了，但好像没有让我走的意思，真的是一直送到地铁站的门口，难道是给我机会吗？😕</font>**
+> **<font face="Noto Serif SC"> &emsp;&emsp;今日送她去车站，去之前我们一起吃了顿饭，尴尬，见到她没话题说。转弯刹车猛了，她贴到了我背上，这触感，太幸福。去到了门口，我原以为这么近了，她可以自己走过去了，但好像没有让我走的意思，真的是一直送到地铁站的门口，难道是给我机会吗？😕<br><br>&emsp;&emsp;后记，晚上我说她做我的梅拉德女士，我做她的维勒探长，做她的灵光一闪的电灯泡!</font>**
+
+## <font face="Times New Romans">19.11.8</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;中午她吐槽说坐了一个小时的车去打针，医生说今天给小朋友打针，让明天再去......(太惨了)。我说脑袋里都是在想她。</font>**
+
+## <font face="Times New Romans">19.11.9</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;今天去了图书馆，借了阿加莎的书以及之前没看完的约翰克里斯多夫，她说为什么突然去图书馆，我说因为看不到你，只能看书了。晚上他们买衣服，又逛平江观前，告诉我说以后她可能要给我搭配新外表，现在这身装束太IT化。。。</font>**
+
+- [x] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：无监督学习，K-Means算法结束，开始PCA。
