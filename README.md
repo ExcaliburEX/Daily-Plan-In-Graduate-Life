@@ -227,7 +227,7 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191110">❤️💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191110">❎</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191111">💗💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191111">✅</td>
+                 <td width= "100" align="center" >11.11</td>
                  <td width= "100" align="center" >11.12</td>
                  <td width= "100" align="center" >11.13</td>
                  <td width= "100" align="center" >11.14</td>
@@ -239,7 +239,7 @@
                  <td width= "100" align="center" >11.20</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191111">💗💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191111">✅</td>
                  <td width= "100" align="center" >😏</td>
                  <td width= "100" align="center" >😏</td>
                  <td width= "100" align="center" >😏</td>
@@ -573,6 +573,6 @@
 
 
 ## <font face="Times New Romans">19.11.11</font>
-> **<font face="Noto Serif SC"> &emsp;&emsp;双十一，想送她一个礼物，“脱单”。很明显大家都极力阻止我这么做，实验室坐下来聊了很久，不能胆怯，成功就在眼前。这种感觉有点不真实，我害怕的是如何去维系以后的生活。总之经过那些岁月的双十一的积淀，今年的我摆脱了。</font>**
+> **<font face="Noto Serif SC"> &emsp;&emsp;双十一，想送她一个礼物，“脱单”。很明显大家都极力阻止我这么做，实验室坐下来聊了很久，不能胆怯，成功就在眼前。这种感觉有点不真实，我害怕的是如何去维系以后的生活。总之经过那些岁月的双十一，今年的我摆脱了。</font>**
 
 - [x] <font face="Noto Serif SC" color=#1E90FF>**吴恩达的视频**</font>：PCA结束，异常检测，高斯分布。
