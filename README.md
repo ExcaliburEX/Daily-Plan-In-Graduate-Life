@@ -243,10 +243,10 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191112">💗💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191112">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191113">💗💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191113">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191114">💗💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191114">❎</td>
-                 <td width= "100" align="center" >😏</td>
-                 <td width= "100" align="center" >😏</td>
-                 <td width= "100" align="center" >😏</td>
-                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191115">💗💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191115">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191116">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191116">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191117">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191117">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191118">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191118">❎</td>
                  <td width= "100" align="center" >😏</td>
                  <td width= "100" align="center" >😏</td>
     </tr>
@@ -584,6 +584,18 @@
 > **<font face="Noto Serif SC"> &emsp;&emsp;跌宕起伏的一天。中午跟她聊了老歌。下午我们三个人又坐下开始扯，他们说我是没事找话聊，总是保持热情以后一旦淡了反而会出现猜疑，我觉得刚认识这段时间就是应该保持高度的热情与联系的热度。<br><br> &emsp;&emsp;开组会时心虚，最后一个报告时，大家都不想听了，正好我也没什么好讲的。但是这时候她正好说研会大会上有个准备男生做俯卧撑壁咚她，本来找另外一个女孩没同意，就挑了她，然后另外一个男生帮她顶替了，我认识他，她很感激，想请他吃夜宵，最后请他喝了奶茶，她说也请我喝一杯。我那个激动啊，她可能是觉得对我过意不去。她站在操场上，期盼我的归来，一连给我发了好几个表情，以前没有过，主要是我没回复，她挺着急吧，我说我在公司还要一会儿，我也想飞回来，等我紧赶慢赶到了操场，心情很激动，但是见到她又不知道说什么了，他们让我今晚一定要牵手，但发现她比我还害羞，说话总是侧身站着，完全没有机会好嘛，她说完今晚的故事，我太紧张也没话接，就边说边往宿舍走。然后就这样分开了，我呆呆地望着，那叫个尴尬啊。来的时候想象了一大堆，然后啥也没干，太逊了。。。曾一度以为是她对我没感觉了，我也悔恨今晚的表现。但我们后来又聊起来了，还好。我说明年我们就要被消灭了，她还问我为什么，太可爱了。</font>**
 
 ## <font face="Times New Romans">19.11.14</font>
-> **<font face="Noto Serif SC"> &emsp;&emsp;</font>早上，她说展示被老师劈头盖脸一顿痛骂，我安慰她说别人是讲的太差，然后被追问又答不出来被骂，你是讲的太好，老师不甘心一定要出个问题刁难你。一切就在明天晚上了。**
+> **<font face="Noto Serif SC"> &emsp;&emsp;早上，她说展示被老师劈头盖脸一顿痛骂，我安慰她说别人是讲的太差，然后被追问又答不出来被骂，你是讲的太好，老师不甘心一定要出个问题刁难你。一切就在明天晚上了。</font>**
 
 
+## <font face="Times New Romans">19.11.15</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;手上的香还没有散去，脑子混乱，按捺不住的心情。<br><br>第一次正式的约会，日料的包厢氛围很好，只是拘谨，聊了好多小时候的事，很有趣开心，乖乖的童年，可爱的阿姨。<br><br>遗憾没赶上的音乐喷泉。<br><br>终于一起来到在脑海中幻想复现无数遍的金鸡湖畔，永远没有真实的体验来的这般幸福。<br><br>实在找不到机会，焦头烂额。真心夸她手好看，我们比了手的大小。感受到了信号，我说“冷嘛”，伸出手，握住，充满仪式性的一刻，越是平淡越是深刻。<br><br>还是不会聊天，聊了很多，但自己没说到点子上，还是她老是照顾我引出话题，无论我说什么都会认真倾听，回应。<br><br>初恋，感情观，电视剧，吸引的原因。<br><br>遗憾的是那么美且意义重大的景色，没有合影，还是我太害羞了。。<br><br>我问：如果那天我没有加你微信，是不是我们就错过了<br>她答：你还没告诉我为什么喜欢我<br><br>我其实也有同样的疑问，我却也不想简单回答“喜欢是没有理由的”，但我确实在第一眼见到她时就有那种命中注定的感觉，诚然外表是一个维度，但是那个笑容是我在任何时间任何位置也没有见过的，在人群中太过耀眼，仅是在多年前的梦里见到过，并且在2017.2.13夜里我还记录了那个梦境中的人儿，现在的她就是真切的梦境的具象化存在，梦已不重要，因为梦走进了现实，连通着梦想。<br><br>傍晚的阳光金黄而辽远，四季交替却如此温情，你没有迟到，而我的等待也是刚刚好。</font>**
+
+
+## <font face="Times New Romans">19.11.16</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;我也不知道发生了什么，她约我见面，我大概已经已经感觉到了。在操场走了很久，她怀疑对我的感觉到底是喜欢还是只是一时冲动，她觉得自己对我并没有足够的了解，自己不会处理男女之间的关系，谈恋爱后会暴露自己的很多缺点。她也许不想说的太直白，其实就是对我没有那种感觉。坐在地上，她聊到了自己的家世，一时伤心哭了出来，我抱着她，却也不知道怎么安慰。回去之前，她还是告诉我给她一段时间冷静一下。我把以前写的文章给她看，她看完之后，也很有共鸣，安慰了我很久，也会夸我。我感觉到我好像正在失去她。</font>**
+
+## <font face="Times New Romans">19.11.17</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;惴惴不安的一天。夜晚，她为失联道歉，我其实完全没在意。只是她好像觉得对我有所亏欠，我并不希望这样。她也强调我有话就要说出来，可是我也并没有隐瞒什么。</font>**
+
+## <font face="Times New Romans">19.11.18</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;想送她点零食，最后变成了她送我，并且约我打羽毛球。只是我没想到这么快，打完球，她就说我们还是做朋友的更好，我一时间只觉得头晕目眩。<br><br>虽然她说，我们目前不适合做情侣，她还没做好谈恋爱的准备；虽然她说，我的性格是体贴，细心但是敏感，她喜欢大大咧咧的；虽然她说我们家庭环境的相似造就了我们可以互相理解，就像认识多年的朋友，不适合成为男女朋友；虽然她说自己很任性，我不一定会喜欢并接受，就像现在就跟我提出分开，有时候情绪低落也会一连失联好几天，有时候睡不着吃褪黑素甚至安眠药；虽然她说，我一定会找到更好的，她不适合我......<br><br>我知道此时的她应该是很理智的，清楚地知道对我没有感觉。但我依然深深地喜欢她，在她哭的那一刻，我就决定一直守护她。所以她说可以做很好的朋友，我当然是答应。我一路说不出话来，我知道此时说的再多也没用，只能淡然地送她回宿舍。<br><br>我只觉天旋地转，艰难地走回宿舍。我止不住给她发信息，希望她不要担心，我们可以一如既往。我们可以时光倒流，回到我们刚认识的时候，愉快地自我介绍。<br><br>躺在床上，我只觉浑身燥热，无法入眠，没有睡着过。<br><br>还有希望吗？</font>**
