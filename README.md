@@ -268,8 +268,8 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191123">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191123">✅</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191124">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191124">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191125">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191125">❎</td>
-                 <td width= "100" align="center" >😏</td>
-                 <td width= "100" align="center" >😏</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191126">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191126">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191127">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191127">❎</td>
                  <td width= "100" align="center" >😏</td>
                  <td width= "100" align="center" >😏</td>
                  <td width= "100" align="center" >😏</td>
@@ -622,3 +622,13 @@
 ## <font face="Times New Romans">19.11.25</font>
 
 - [x] <font face="Noto Serif SC" color=#8B658B>**日语**：完成标日的第一课，以及单词的学习。</font>
+
+## <font face="Times New Romans">19.11.26</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;她找我了，虽然是找我帮忙解决问题，但还是很开心，多么希望那一句“爱死你了”是我想的那种意思。</font>**
+
+- [x] <font face="Noto Serif SC" color=#8B658B>**口琴**：一小时练习</font>
+
+## <font face="Times New Romans">19.11.27</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;又是组会的一天。跟大师兄说了声抱歉。老板请吃汉堡王，等啊等，饿到虚脱，还是拿大师兄的手机下的单。等了两个小时的外卖，虽是与之立下绝食契约的汉堡王，但此刻已经不容犹豫了，真香。跟她分享了组会的日常与汉堡王的真香。</font>**
+
+
