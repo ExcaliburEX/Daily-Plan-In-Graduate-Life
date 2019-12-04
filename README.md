@@ -297,9 +297,9 @@
     <tr>
                  <td width= "100" align="center" ></td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19121">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19121">❎</td>
-                 <td width= "100" align="center" >🎅</td>
-                 <td width= "100" align="center" >🎅</td>
-                 <td width= "100" align="center" >🎅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191223">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191223">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191223">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191223">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19124">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19124">❎</td>
                  <td width= "100" align="center" >🎅</td>
                  <td width= "100" align="center" >🎅</td>
                  <td width= "100" align="center" >🎅</td>
@@ -732,6 +732,16 @@
 
 ## <font face="Times New Romans">19.12.1</font>
 > **<font face="Noto Serif SC"> &emsp;&emsp;组合数学完课了，下午回家跟母亲聊了一会儿天，她吃了一辈子的苦，我这点苦才哪到哪呢，慢慢去感受人生吧。晚上偷偷帮她抢了研究生歌唱大赛的票，正好她没抢到，然后我假装我去不了，这样她就没有怕见到我的负担了。</font>**
+
+## <font face="Times New Romans">19.12.2~3</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;南京江苏省人工智能大会两日游，五星级酒店体验卡，跟着老王一起兜风，带老王体验宾馆浴池。正跟老王吹牛皮，她正好发信息过来，老王握住Cadillac方向盘说不要慌，拍段视频说在南京街头瞎逛，她直接猜出我在哪里，在干嘛，，，说是我的视频里面大楼标志很明显。原来是问作业的问题，还是挺开心的。之后晚宴也玩得很快乐，虽然没跟大佬合影，但喝了志华大佬敬的酒。之后上台替领奖，南京南站的狂奔。花开两朵，全都不表。</font>**
+
+![大佬](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191204203525.jpg)
+![走廊](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191204203531.jpg)
+![领奖](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20191204203541.jpg)
+
+## <font face="Times New Romans">19.12.4</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;始终放心不下她那个问题，问她要了程序，居然是秒回，看了一下午，还是感觉抓不住要害，或许当面交流更加清晰，不过今天应该是这么多天来聊得感觉最好的一天了。</font>**
 
 
 
