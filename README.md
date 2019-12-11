@@ -303,11 +303,12 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19125">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19125">✅</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19126">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19126">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19127">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19127">❎</td>
-                 <td width= "100" align="center" >🎅</td>
-                 <td width= "100" align="center" >🎅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19128">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19128">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19129">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19129">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191210">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191210">❎</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >12.12</td>
+                 <td width= "100" align="center" >12.11</td>
                  <td width= "100" align="center" >12.12</td>
                  <td width= "100" align="center" >12.13</td>
                  <td width= "100" align="center" >12.14</td>
@@ -319,7 +320,7 @@
                  <td width= "100" align="center" >12.20</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >🎅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19127">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19127">❎</td>
                  <td width= "100" align="center" >🎅</td>
                  <td width= "100" align="center" >🎅</td>
                  <td width= "100" align="center" >🎅</td>
@@ -659,7 +660,7 @@
 > **<font face="Noto Serif SC"> &emsp;&emsp;早上，政治课，她说对老师尴尬地微笑，想起来那笑容，是那么的令人沉醉。夜晚，在敬贤堂听讲座，讲了很多近代的名家还是很有收获，跟她聊了为什么不玩手游，她问了我的星座，她又夸我文学好，其实只是星际穿越的桥段。</font>**
 
 ## <font face="Times New Romans">19.11.13</font>
-> **<font face="Noto Serif SC"> &emsp;&emsp;跌宕起伏的一天。中午跟她聊了老歌。下午我们三个人又坐下开始扯，他们说我是没事找话聊，总是保持热情以后一旦淡了反而会出现猜疑，我觉得刚认识这段时间就是应该保持高度的热情与联系的热度。<br><br> &emsp;&emsp;开组会时心虚，最后一个报告时，大家都不想听了，正好我也没什么好讲的。但是这时候她正好说研会大会上有个准备男生做俯卧撑壁咚她，本来找另外一个女孩没同意，就挑了她，然后另外一个男生帮她顶替了，我认识他，她很感激，想请他吃夜宵，最后请他喝了奶茶，她说也请我喝一杯。我那个激动啊，她可能是觉得对我过意不去。她站在操场上，期盼我的归来，一连给我发了好几个表情，以前没有过，主要是我没回复，她挺着急吧，我说我在公司还要一会儿，我也想飞回来，等我紧赶慢赶到了操场，心情很激动，但是见到她又不知道说什么了，他们让我今晚一定要牵手，但发现她比我还害羞，说话总是侧身站着，完全没有机会好嘛，她说完今晚的故事，我太紧张也没话接，就边说边往宿舍走。然后就这样分开了，我呆呆地望着，那叫个尴尬啊。来的时候想象了一大堆，然后啥也没干，太逊了。。。曾一度以为是她对我没感觉了，我也悔恨今晚的表现。但我们后来又聊起来了，还好。我说明年我们就要被消灭了，她还问我为什么，太可爱了。</font>**
+> **<font face="Noto Serif SC"> &emsp;&emsp;跌宕起伏的一天。中午跟她聊了老歌。下午我们三个人又坐下开始扯，他们说我是没事找话聊，总是保持热情以后一旦淡了反而会出现猜疑，我觉得刚认识这段时间就是应该保持高度的热情与联系的热度。<br><br> &emsp;&emsp;开组会时心虚，最�����一个报告时，大家都不想听了，正好我也没什么好讲的。但是这时候她正好说研会大会上有个准备男生做俯卧撑壁咚她，本来找另外一个女孩没同意，就挑了她，然后另外一个男生帮她顶替了，我认识他，她很感激，想请他吃夜宵，最后请他喝了奶茶，她说也请我喝一杯。我那个激动啊，她可能是觉得对我过意不去。她站在操场上，期盼我的归来，一连给我发了好几个表情，以前没有过，主要是我没回复，她挺着急吧，我说我在公司还要一会儿，我也想飞回来，等我紧赶慢赶到了操场，心情很激动，但是见到她又不知道说什么了，他们让我今晚一定要牵手，但发现她比我还害羞，说话总是侧身站着，完全没有机会好嘛，她说完今晚的故事，我太紧张也没话接，就边说边往宿舍走。然后就这样分开了，我呆呆地望着，那叫个尴尬啊。来的时候想象了一大堆，然后啥也没干，太逊了。。。曾一度以为是她对我没感觉了，我也悔恨今晚的表现。但我们后来又聊起来了，还好。我说明年我们就要被消灭了，她还问我为什么，太可爱了。</font>**
 
 ## <font face="Times New Romans">19.11.14</font>
 > **<font face="Noto Serif SC"> &emsp;&emsp;早上，她说展示被老师劈头盖脸一顿痛骂，我安慰她说别人是讲的太差，然后被追问又答不出来被骂，你是讲的太好，老师不甘心一定要出个问题刁难你。一切就在明天晚上了。</font>**
@@ -757,6 +758,28 @@
 
 ## <font face="Times New Romans">19.12.7</font>
 
-- [x] <font face="Noto Serif SC" color=#1E90FF>**机器学习**</font>：完成了Logistics Regression的作业，发了csdn，简书，掘金，知乎，公众号。
-- [x] <font face="Noto Serif SC" color=#8B658B>**口琴**：深夜庭院一小时的练习，继续吹《月亮》，顺便练了一会儿复音。
+- [x] <font face="Noto Serif SC" color=#1E90FF>**机器学习**：完成了Logistics Regression的作业，发了csdn，简书，掘金，知乎，公众号。</font>
+- [x] <font face="Noto Serif SC" color=#8B658B>**口琴**：深夜庭院一小时的练习，继续吹《月亮》，顺便练了一会儿复音。</font>
+
+## <font face="Times New Romans">19.12.8</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;直接来了一波模糊邀约？三个人叫我直接发，我还真就发了，还真就同意了，下一步就等到十二月底吧。</font>**
+
+## <font face="Times New Romans">19.12.9</font>
+
+- [x] <font face="Noto Serif SC" color=#8B658B>**口琴**：深夜庭院一小时的练习，继续吹《月亮》，复音半音阶。</font>
+
+## <font face="Times New Romans">19.12.10</font>
+
+> **<font face="Noto Serif SC"> &emsp;&emsp;大概是看了一天的《克里斯朵夫》。</font>**
+
+
+## <font face="Times New Romans">19.12.11</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;看了好久寒山寺跨年的活动，盘算着也许可以尝试，想象着那个场景，不过也许她根本不会接受。她的歌单更新了《想你想你》，我就偷偷对她可见的分享在了pyq。</font>**
+
+
+组会论文：
+- [x] <font face="Noto Serif SC" color=#8B658B>**《分布式存储系统中存储节点选择与节点修复技术研究》**：利用Ceph分布式存储系统实现了节点选择算法的优化，其中选取的指标可以学习。</font>
+
+- [x] <font face="Noto Serif SC" color=#8B658B>**《一种基于分布式存储系统中多节点修复的节点选择算法》**：它的距离直接默认为带宽，但是用于实验的网络拓扑产生算法值得使用，来自1988年的一种算法。</font>
+
 
