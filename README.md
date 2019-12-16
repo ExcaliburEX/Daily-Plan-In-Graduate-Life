@@ -320,12 +320,12 @@
                  <td width= "100" align="center" >12.20</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19127">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#19127">❎</td>
-                 <td width= "100" align="center" >🎅</td>
-                 <td width= "100" align="center" >🎅</td>
-                 <td width= "100" align="center" >🎅</td>
-                 <td width= "100" align="center" >🎅</td>
-                 <td width= "100" align="center" >🎅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191211">⭐️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191211">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191212">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191212">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191213">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191213">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191214">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191214">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191215">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191215">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191216">🌠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191216">❎</td>
                  <td width= "100" align="center" >🎅</td>
                  <td width= "100" align="center" >🎅</td>
                  <td width= "100" align="center" >🎅</td>
@@ -783,3 +783,25 @@
 - [x] <font face="Noto Serif SC" color=#8B658B>**《一种基于分布式存储系统中多节点修复的节点选择算法》**：它的距离直接默认为带宽，但是用于实验的网络拓扑产生算法值得使用，来自1988年的一种算法。</font>
 
 
+## <font face="Times New Romans">19.12.12</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;公众号发了之前做好的关于几个写作工具的分享，又是周四，照例去操场跑步，不知道是不是错觉，背后那个快步走出操场的背影就是她的。</font>**
+
+
+## <font face="Times New Romans">19.12.13</font>
+
+> **<font face="Noto Serif SC"> &emsp;&emsp;研究了一天的算法，没什么收获。昨天发了那首歌，她居然点赞了，这是第三次分享。还有前天晚上的晚安微博，那个藏头昵称，她肯定看到了。虽然已经三天没有联系了，可是我一直在她周边留下影子。</font>**
+
+
+- [x] <font face="Noto Serif SC" color=#8B658B>**日语**：日语学习，第二单元，单词。</font>
+
+## <font face="Times New Romans">19.12.14</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;四六级监考，世界真小，遇见了她。</font>**
+
+
+## <font face="Times New Romans">19.12.15</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;分享了一首《To the moon》给她顺便跟她分享了背后的感人故事。</font>**
+
+- [x] <font face="Noto Serif SC" color=#8B658B>**口琴**：庭院独自的练习《月亮》，试了一下16孔。</font>
+
+## <font face="Times New Romans">19.12.16</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;早上，手贱点开了那个文档云，看见了她的PPT，又看见了最后有两页广告，没忍住提醒了她，虽然已经暴露了自己，但也没办法了。虽然被人说有点变态的意思了。她倒是不是特别惊讶的感觉，但是表示没办法了，调侃的感觉，就只能那样了。</font>**
