@@ -350,9 +350,92 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191225">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191225">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191226">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191226">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191227">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#191227">❎</td>
-                 <td width= "100" align="center" >🎅</td>
-                 <td width= "100" align="center" >🎅</td>
-                 <td width= "100" align="center" >🎅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">💓</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">❎</td>
+    </tr>
+</table>
+
+
+
+
+# ♒️ 2020.1月
+<table>
+    <tr>     
+                <td colspan="2" width= "100" align="center" >2020.1月</td>
+                <td colspan="2" width= "100" align="center" >学习|健身</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >1.1</td>
+                 <td width= "100" align="center" >1.2</td>
+                 <td width= "100" align="center" >1.3</td>
+                 <td width= "100" align="center" >1.4</td>
+                 <td width= "100" align="center" >1.5</td>
+                 <td width= "100" align="center" >1.6</td>
+                 <td width= "100" align="center" >1.7</td>
+                 <td width= "100" align="center" >1.8</td>
+                 <td width= "100" align="center" >1.9</td>
+                 <td width= "100" align="center" >1.10</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#1912282015">❎</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >1.11</td>
+                 <td width= "100" align="center" >1.12</td>
+                 <td width= "100" align="center" >1.13</td>
+                 <td width= "100" align="center" >1.14</td>
+                 <td width= "100" align="center" >1.15</td>
+                 <td width= "100" align="center" >1.16</td>
+                 <td width= "100" align="center" >1.17</td>
+                 <td width= "100" align="center" >1.18</td>
+                 <td width= "100" align="center" >1.19</td>
+                 <td width= "100" align="center" >1.20</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >1.21</td>
+                 <td width= "100" align="center" >1.22</td>
+                 <td width= "100" align="center" >1.23</td>
+                 <td width= "100" align="center" >1.24</td>
+                 <td width= "100" align="center" >1.25</td>
+                 <td width= "100" align="center" >1.26</td>
+                 <td width= "100" align="center" >1.27</td>
+                 <td width= "100" align="center" >1.28</td>
+                 <td width= "100" align="center" >1.29</td>
+                 <td width= "100" align="center" >1.30</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
+                 <td width= "100" align="center" >🥂</td>
     </tr>
 </table>
 
@@ -825,7 +908,7 @@
 > **<font face="Noto Serif SC"> &emsp;&emsp;雨还在下。上午参加区块链会议，秦发来R语言考试的问题，我也不是特别懂，有电脑在身旁还好一点。我在想也许她下午也会考这些吧，要不要告诉她呢，也许她也会来问我呢，最后，还是算了吧，那样会让她觉得可怕吧，生活像被窥视了般。</br></br>下午见到久违的行健，就像是没有分开几天，拥抱也成了多余。“整个人都提上来了”，可能只是最近深陷泥潭吧。总是在做倾听者，这次终于是轮到我说了我的故事，他也能感受到我有一堆话要说，虽然他刚从那边成堆的学业压力回国缓一缓，就要听我说痛苦的事，但也只有他，在什么都不知道的情况下，能懂我说的一切。两个月以来所有的事悉数道来，叙述一个个细节的时候，我也更深刻地明白了那段时间里手足无措的情况下，犯了太多的错误。我知道这样有点自私，我只是希望想向他倾诉，因为曾经他太多次封闭自我，可见的内心充满了煎熬，不言语，只是感受到他“抱着膝盖，脸庞深埋”的内心，我不知如何安慰，却无从靠近，也无从理解。他早就经历太多这般痛苦，也更懂得个中的种种。</br></br>“你做的很好了”，“不要断断续续保持联系了”“她很好，愿意跟你说清楚”“现实摆的很清楚，过不了父母这关”</br></br>他坐在公车上，听者大妈们说话，看着窗外的风景，看着这普通得不能再普通的商业街，原来是这么美好的 事情。他的舍友；日本文化；类似见偶像的教授面试以及礼仪；强者之前的互相选择；打棒球的女孩；全民运动的风气；水果不进口；居民区不准打电话，要走15分钟出去才能打电话；上电车一动不动，不敢出一点声，上车前检查耳机漏不漏声；直下地震；第一次体验读秒体验地震那种虚幻感，明明在陆地上，却像上了船，到后来习惯了时不时的抖动；一定要去的涩谷百鬼夜行；完全无法理解的充满礼貌的道路交通。很幸运遇到很特别的舍友，想更多培养这些修养，以及治学的精神，但会尽早回来。值得一提，一个舍友，父亲从他出生便丢掉生意，全心全意教育他，给他展示所有的选择，经济学，艺术，科学，文学，所以他选择的物理，选择东大都是那么遵循己心，没有太多的顾虑；带他坐4个小时的车去见他喜欢的人，告诉他当她痛苦时，她需要你时，你是否愿意在任何时刻都愿意坐4小时的车来见她，承受这一切，你才能对彼此负责。</br></br>虽然最后好像聊到没话题了，事实上只是觉得可以说的太多了，一旦聊起来，再久也无法结束，我们彼此很默契，选择了保留它们。即便分别再久，依旧如初。</font>**
 
 ## <font face="Times New Romans">19.12.24</font>
-> **<font face="Noto Serif SC"> &emsp;&emsp;雨还在下。平安夜，嗯，怎么过的呢，没跟大家去看晚会也没去看电影吃火锅，当然也收到苹果。她也告诉我她在复习，我也就结束了今天。</font>**
+> **<font face="Noto Serif SC"> &emsp;&emsp;雨还在下。平安夜，嗯，怎么过的呢，没跟大家去看晚会也没去看电影吃火锅，当然也没收到苹果。她也告诉我她在复习，我也就结束了今天。</font>**
 
 - [x] <font face="Noto Serif SC" color=#8B658B>**口琴**：口琴《月亮》</font>
 
@@ -839,6 +922,11 @@
 
 ## <font face="Times New Romans">19.12.27</font>
 > **<font face="Noto Serif SC"> &emsp;&emsp;终于放晴了。她也离开了这座城市，把雨一起带走了，追随她而去了，或许是我开始放下她了吧，虽然有很多种理由可以解释她没有接受贺卡，没看懂我的意思，下雨所以没去拿，不过确认贺卡还在时，我有种释然的感觉。</br></br>晚上，又从西门出去，沿着曲径幽巷走了一遭，在星巴克畅谈了很久，心渐渐放开了。</font>**
+
+## <font face="Times New Romans">19.12.28~20.1.5</font>
+> **<font face="Noto Serif SC"> &emsp;&emsp;期末复习，终于考完了，感觉要挂。口琴的话除了31号晚上，一直有在吹。31号下午跟行健在一起很开心，体验了用4DX体验了一下叶师傅。在金鸡从裤衩走到李公堤再走回来，聊了很多，我也是第一次听到行健那段痛苦孤独的时光。晚上的时候跟姿颖和他一起到寒山听钟声，在人群中穿梭，感受着千年古刹的神秘与此时张灯结彩欢庆，心中各自怀揣着心事，与对未来的憧憬与希冀以及来年压力的压迫感，但也挤出了笑容，毕竟有她突然出现，大家要开心一点。融在人群中，她不时回头确认我没离开，最后终于挤到了绝佳的位置，停住的刹那，现场众人一片寂静，钟声随之响起，沉重悠扬，浸入心灵，与刚刚的人声鼎沸仿若两个世界。站在他们的背后，当最后一声敲响的瞬间，他们应该都各自许了愿吧，那回头的两声“新年快乐”，是今年开头听到的发自心底的最令我快乐的话语。在那一瞬间我也发出了我的祝贺，不知那回复是应福而回还是本已经准备好发。结束，总是如此匆匆，几乎是刚结束就被人群推了出来，阿姨和行健都劝我送她回去，一路上到也聊得很开心，我遗憾的是没有大家一起合影，她倒挺乐观说什么地方都能合影，所以就一起在学校门前合了一张，也算是补了开学的那张，也算是开年的第一张照片。还有很多事，且不赘述，写进日记吧。研会聚餐，不认识人，没多少人，也不会说话，暂且不表。</font>**
+
+- [x] <font face="Noto Serif SC" color=#8B658B>**口琴**：半音阶口琴从《月亮》到《secret base》 × 8 </font>
 
 
 
