@@ -495,27 +495,15 @@
     </tr>
     <tr>
                  <td width= "100" align="center" >2.11</td>
-                 <td width= "100" align="center" >2.12</td>
-                 <td width= "100" align="center" >2.13</td>
-                 <td width= "100" align="center" >2.14</td>
-                 <td width= "100" align="center" >2.15</td>
-                 <td width= "100" align="center" >2.16</td>
-                 <td width= "100" align="center" >2.17</td>
-                 <td width= "100" align="center" >2.18</td>
-                 <td width= "100" align="center" >2.19</td>
-                 <td width= "100" align="center" >2.20</td>
-    </tr>
-    <tr>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2011920211">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2011920211">❎</td> 
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >2.21</td>
@@ -530,15 +518,15 @@
                  <td width= "100" align="center" ></td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >:smile:</td> 
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
-                 <td width= "100" align="center" >:smile:</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2011920211">🌟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2011920211">❎</td> 
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
+                 <td width= "100" align="center" >:<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033"> :green_heart:</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#202122033">❎</td>
                  <td width= "100" align="center" ></td> 
     </tr>
 </table>
