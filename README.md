@@ -1137,4 +1137,4 @@
 
 - :one: 健身
 
-<img src = "微信图片_20200313210211.jpg" height = "350"/>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20200313210211.jpg" height = "350"/>
