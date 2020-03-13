@@ -588,7 +588,7 @@
     <tr>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">❎
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">✅
-                 <td width= "100" align="center" >:zzz:</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20313">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20313">✅
                  <td width= "100" align="center" >:zzz:</td>
                  <td width= "100" align="center" >:zzz:</td>
                  <td width= "100" align="center" >:zzz:</td>
@@ -1128,7 +1128,13 @@
 
 - :one: 健身
 
-<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20200308135829.png" height = "290"/>
+<img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20200308135829.png" height = "350"/>
 
 ## <font face="Times New Roman">20.3.9~20.3.12</font>
 > **<font face="Noto Serif SC"> &emsp;&emsp;这几天的学习健身烹饪群欢乐好多，认识几个朋友，我为什么会让阿治从大英给我带MAC口红😖. </font>**
+
+## <font face="Times New Roman">20.3.13</font>
+
+- :one: 健身
+
+<img src = "微信图片_20200313210211.jpg" height = "350"/>
