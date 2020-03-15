@@ -589,8 +589,8 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">❎
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">✅
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20313">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20313">✅
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">❎
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">❎
                  <td width= "100" align="center" >:zzz:</td>
                  <td width= "100" align="center" >:zzz:</td>
                  <td width= "100" align="center" >:zzz:</td>
@@ -1138,3 +1138,6 @@
 - :one: 健身
 
 <img src = "https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/微信图片_20200313210211.jpg" height = "350"/>
+
+## <font face="Times New Roman">20.3.14~15</font>
+> <font face="Noto Serif SC"> &emsp;&emsp;昨天看了[泛式](https://live.bilibili.com/33989)的直播，一开始关注他只是因为他解说动漫的角度确实挺有趣，对于新番的介绍也很全面。后来发现偶尔也会炫富什么的，其实也只是真实分享自己的生活。直播说的几点，值得记录一下，虽然他不是一个做直播的人，也不是精心准备的话，也正因为如此，才会引起我的注意。其一，一个人如果不在乎别人的看法是绝对不会再网络上输出视频，文字亦或是音乐，分享的本质是希望得到认同，所以很多人为什么会因为99个人夸赞，1个人的侮辱，而对其恨之入骨，揪着这个人满大街甩，别人即使劝说「不要理会那‘个别人’的感受」也于事无补，因为人的社交思维无法承受这么大量的虚拟互动的点触，因为需要认同所以在意，确实是这样简单的道理。其二，关于怀旧的问题，同样我们都是怀旧的人，所以这点让我倍感亲切，因为身边会怀旧的人太少了：会时长点进QQ空间的相册一看就是半天，看每张照片的笑脸，回想当初拍这张照片的时候，是怎样一番景象(因为知道自己会怀旧，所以拍很多身边人的照片，会把这些毫无遗漏的放在QQ空间的相册里，也不在乎看的人是网友还是现实的朋友，所以有人会说我QQ空间没照片，这大概就是有这样的情况在里面吧，因为不会怀旧，所以没照片，很畅通)；也不会去记日记；也不会去记录身边那些最容易忽略的细节。可以与时代人物一起谈笑风生，也可以和市井小民聊鸡毛蒜皮，可以品味鲍鱼燕窝，也可以咽下粗茶淡饭，可以惊叹喜马拉雅山脉的雪被，也可以为身边的一花一草驻足赋诗。<br><br>好像渐渐偏离了主题，但是那些感受确实都很真实，也提到了身边的女性朋友都是属于会跟男生谈天说地，没有微尴的，没有传统意义上的女性朋友，其实也正常，因为她们中大部分人只会跟同性交流，所以他的感受其实是当代大部分男性的感受吧，毕竟无论男女我们的爱好都一样：异性。</font>
