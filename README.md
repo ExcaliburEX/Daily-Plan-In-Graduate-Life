@@ -570,8 +570,8 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20342038">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20342038">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20342038">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20342038">✅</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20342038">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20342038">✅</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">❎
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">❎
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">❎</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >3.11</td>
@@ -586,16 +586,16 @@
                  <td width= "100" align="center" >3.20</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">❎
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">✅
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20313">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20313">✅
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">❎
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">❎
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">🎈</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#203920312">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20313">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20313">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">🤠</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031415">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031618">🤒</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031618">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031618">🤒</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031618">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031618">🤒</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2031618">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20319">🙁</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20319">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">😑</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >3.21</td>
@@ -1141,3 +1141,18 @@
 
 ## <font face="Times New Roman">20.3.14~15</font>
 > <font face="Noto Serif SC"> &emsp;&emsp;昨天看了[泛式](https://live.bilibili.com/33989)的直播，一开始关注他只是因为他解说动漫的角度确实挺有趣，对于新番的介绍也很全面。后来发现偶尔也会炫富什么的，其实也只是真实分享自己的生活。直播说的几点，值得记录一下，虽然他不是一个做直播的人，也不是精心准备的话，也正因为如此，才会引起我的注意。其一，一个人如果不在乎别人的看法是绝对不会再网络上输出视频，文字亦或是音乐，分享的本质是希望得到认同，所以很多人为什么会因为99个人夸赞，1个人的侮辱，而对其恨之入骨，揪着这个人满大街甩，别人即使劝说「不要理会那‘个别人’的感受」也于事无补，因为人的社交思维无法承受这么大量的虚拟互动的点触，因为需要认同所以在意，确实是这样简单的道理。其二，关于怀旧的问题，同样我们都是怀旧的人，所以这点让我倍感亲切，因为身边会怀旧的人太少了：会时长点进QQ空间的相册一看就是半天，看每张照片的笑脸，回想当初拍这张照片的时候，是怎样一番景象(因为知道自己会怀旧，所以拍很多身边人的照片，会把这些毫无遗漏的放在QQ空间的相册里，也不在乎看的人是网友还是现实的朋友，所以有人会说我QQ空间没照片，这大概就是有这样的情况在里面吧，因为不会怀旧，所以没照片，很畅通)；也不会去记日记；也不会去记录身边那些最容易忽略的细节。可以与时代人物一起谈笑风生，也可以和市井小民聊鸡毛蒜皮，可以品味鲍鱼燕窝，也可以咽下粗茶淡饭，可以惊叹喜马拉雅山脉的雪被，也可以为身边的一花一草驻足赋诗。<br><br>好像渐渐偏离了主题，但是那些感受确实都很真实，也提到了身边的女性朋友都是属于会跟男生谈天说地，没有微尴的，没有传统意义上的女性朋友，其实也正常，因为她们中大部分人只会跟同性交流，所以他的感受其实是当代大部分男性的感受吧，毕竟无论男女我们的爱好都一样：异性。<br><br>当然还有一点，以前也会这样想，就是当你周围的人所追求的娱乐品味与你不在个层次的时候，就像你阅读着各个时代大师的杰作，脑海中交叠着各个时空的思想与精神时，耳边却听到室友的韩剧亦或是抖音声时，表面上什么也不会表露，内心却有一种隐隐的自豪与轻蔑。有一个回答是这样的，无论是什么样的获取，本质上都是消费的一环，没错，再怎么高雅与脱世，再怎么荡涤灵魂与精神，你并没有给这个世界生产什么高价值高营养的东西。所以这种感觉其实一文不值，只有将其体系化，逻辑化地，并稳定地输出他们，你所拥有的自豪与关怀才有意义。</font>
+
+## <font face="Times New Roman">20.3.16~18</font>
+> <font face="Noto Serif SC"> &emsp;&emsp;日子过得匆匆，这几天思考渐渐怠慢，思想渐渐枯竭，思维渐渐崩塌。记得什么时候看到的句子吧，那是法国工业革命时，有人说的话：“人们开始不再熟悉自己的工作以及日常，纯粹的简单变得奢侈，因为事物发展的过快；年轻人被时代所裹挟，过早地参与到社会进程中，从而被逐渐抛弃；人们强烈地追逐各种轮船，邮递等快捷的信息通讯工具，因为信息过载，平庸文化变得普遍化合理化”。记忆模糊不清，这不是原句，但大概能传达我此时的焦虑与自责。200年前的人所描述当时的状态其实与今天这个时代相差无几，甚至可以说是一模一样。今日的世界何尝不是如此呢，我们已经快得停不下来仔细思索了。在面对热闹与喧嚣时，我们已经做不到波澜不惊了；在面对网络谣言与非议时，我们已经做不到独立思考与判断了；在面对艰难的处境时，我们已经无法做到理智地决策与思考了。</font>
+
+## <font face="Times New Roman">20.3.19</font>
+> <font face="Noto Serif SC"> &emsp;&emsp;今日只有一些话想要记录下来。</font>
+
+![微信截图_20200321122655.png](https://i.loli.net/2020/03/21/aw14usLKREmVOY2.png)
+![微信截图_20200321122706.png](https://i.loli.net/2020/03/21/QCAeE7m3FTjPn5y.png)
+
+## <font face="Times New Roman">20.3.20</font>
+> <font face="Noto Serif SC"> &emsp;&emsp;今日又是恶补one的一天。</font>
+
+![微信截图_20200321122842.png](https://i.loli.net/2020/03/21/adiQnVNfSK3rvkJ.png)
+![微信截图_20200321122835.png](https://i.loli.net/2020/03/21/Aoy8R2tXsNrKEgi.png)
