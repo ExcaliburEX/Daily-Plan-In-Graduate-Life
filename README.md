@@ -546,8 +546,8 @@
 # :aries: 2020.3月
 <table>
     <tr>     
-                <td colspan="2" width= "100" align="center" >2020.3月</td>
-                <td colspan="2" width= "100" align="center" >学习|健身</td>
+                <td colspan="2" width= "120" align="center" >2020.3月</td>
+                <td colspan="2" width= "120" align="center" >学习|健身</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >3.1</td>
@@ -608,7 +608,6 @@
                  <td width= "100" align="center" >3.28</td>
                  <td width= "100" align="center" >3.29</td>
                  <td width= "100" align="center" >3.30</td>
-                 <td width= "100" align="center" >3.31</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >:zzz:</td>
@@ -621,6 +620,11 @@
                  <td width= "100" align="center" >:zzz:</td>
                  <td width= "100" align="center" >:zzz:</td>
                  <td width= "100" align="center" >:zzz:</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >3.31</td>
+    </tr>
+    <tr>
                  <td width= "100" align="center" >:zzz:</td>
     </tr>
 </table>
