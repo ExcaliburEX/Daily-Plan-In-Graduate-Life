@@ -610,15 +610,15 @@
                  <td width= "100" align="center" >3.30</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
-                 <td width= "100" align="center" >:zzz:</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129">😑</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129">😣</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129">😓</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129">🤔</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129">😤</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129">🙄</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129">😡</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129">😕</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129">🤤</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320">❎</td>
                  <td width= "100" align="center" >:zzz:</td>
     </tr>
     <tr>
@@ -1160,3 +1160,6 @@
 
 ![微信截图_20200321122835.png](https://i.loli.net/2020/03/21/Aoy8R2tXsNrKEgi.png)
 ![微信截图_20200321122842.png](https://i.loli.net/2020/03/21/adiQnVNfSK3rvkJ.png)
+
+## <font face="Times New Roman">20.3.21~29</font>
+> <font face="Noto Serif SC"> &emsp;&emsp;这几天的故事，很简单，我只是做了一些让自己以后又更新动力的事情、具体的故事在[这里](https://github.com/ExcaliburEX/KeMo#20322329)。我一直在想如何让自己的记录更加的漂亮，想着当我经年累月地记录生活，这些文字，图片，视频将是一个非常庞大的体量，如何将其组织好存放在一个安稳的地方，是一个很大的问题。每天我都在思考，每一刻我都在构思一个架构可以将这些信息可以瞻前顾后地索引起来。很明显我已经在`Github`和[柯摩的blog](http://kemo.xyz)上，暂时已经组织好了这样一个人生工程。<br>&emsp;&emsp;但是，形式终究是其次的，思想，精神，灵魂，心流，行为，影响，内容是主要的，是重要的，是超越一切的，这，是我日后应该思考的了。</font>
