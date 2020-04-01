@@ -6,7 +6,7 @@
 [![HitCount](http://hits.dwyl.com/ExcaliburEX/Daily-Plan-In-Graduate-Life.svg)](http://hits.dwyl.com/ExcaliburEX/Daily-Plan-In-Graduate-Life)
 
 [![GitHub Issues](https://img.shields.io/github/issues/ExcaliburEX/Daily-Plan-In-Graduate-Life)](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ycraaron/LuotuoCoin.svg)](https://github.com/ycraaron/LuotuoCoin/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ExcaliburEX/Daily-Plan-In-Graduate-Life.svg)](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/pulls)
 ![forks](https://img.shields.io/github/forks/ExcaliburEX/Daily-Plan-In-Graduate-Life)
 ![stars](	https://img.shields.io/github/stars/ExcaliburEX/Daily-Plan-In-Graduate-Life)
 ![repo size](https://img.shields.io/github/repo-size/ExcaliburEX/Daily-Plan-In-Graduate-Life)
@@ -1170,3 +1170,18 @@
 
 ## <font face="Times New Roman">20.3.21~29</font>
 > <font face="Noto Serif SC"> &emsp;&emsp;这几天的故事，很简单，我只是做了一些让自己以后又更新动力的事情、具体的故事在[这里](https://github.com/ExcaliburEX/KeMo#20322329)。我一直在想如何让自己的记录更加的漂亮，想着当我经年累月地记录生活，这些文字，图片，视频将是一个非常庞大的体量，如何将其组织好存放在一个安稳的地方，是一个很大的问题。每天我都在思考，每一刻我都在构思一个架构可以将这些信息可以瞻前顾后地索引起来。很明显我已经在`Github`和[柯摩的blog](http://kemo.xyz)上，暂时已经组织好了这样一个人生工程。<br>&emsp;&emsp;但是，形式终究是其次的，思想，精神，灵魂，心流，行为，影响，内容是主要的，是重要的，是超越一切的，这，是我日后应该思考的了。</font>
+
+## <font face="Times New Roman">20.3.30~4.1</font>
+- 1️⃣&emsp;健身
+
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011858.jpg" height = "350"/>
+
+- 2️⃣&emsp;阅读
+
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011310.jpg" height = "350"/>
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011305.jpg" height = "350"/>
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011251.jpg" height = "350"/>
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011313.jpg" height = "350"/>
+
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011316.jpg" height = "350"/>
+
