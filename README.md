@@ -657,15 +657,15 @@
     </tr>
     <tr>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2033041">🤷‍♀️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2033041">❎</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">🐷</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">🧔</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">🛀</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">🎆</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">🔨</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">🙎‍♀️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">🙎‍♂️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">🤦‍♀️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">🤦‍♂️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >4.11</td>
@@ -680,9 +680,9 @@
                  <td width= "100" align="center" >4.20</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">😶</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">😶</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">😶</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">✅</td>
                  <td width= "100" align="center" >👻</td>
                  <td width= "100" align="center" >👻</td>
                  <td width= "100" align="center" >👻</td>
@@ -1262,3 +1262,11 @@
 <img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011310.jpg" height = "350"/><img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011305.jpg" height = "350"/><img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011251.jpg" height = "350"/><img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011313.jpg" height = "350"/>
 <img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200402011316.jpg" height = "350"/>
 
+## <font face="Times New Roman">20.4.2~4.13</font>
+> <font face="Noto Serif SC"> &emsp;&emsp;近来渐渐与绮梦失去了联系，那日夜晚无来由的歌声令我魂牵梦绕，也许是她只是想找个听众罢了，也许她只是在那段关系中疲倦了想找人倾述罢了，也许只是因为我是他曾经的队友罢了。那夜她只是很开心罢了。可我却乐过了头，将自己托付而出，那份神秘却已消失不再。想着她的那份感情应该进展的不错，没有心思想其他事情吧。最初的她，被那份周边人都认为注定会分离的情感折磨的心力交瘁，光照不进心里，我只是建议她坚持，如今她却说：“喜欢他越多，自己就越痛苦。”我不知该作何回应，这之后又发生了什么呢，我也很久没再登号去见她了。就像她曾经说的：“劝起我来一套一套的，自己却封闭包裹得滴水不漏。”<br><br>NY也在不久前放弃了那段感情，虽然我给了很多建议，我也希望她能坚持下去，我觉得不知是否是如今这特殊时期的关系，但两人也许真的没有那份缘分吧。一方认为许久得到的关心太少便是不再爱的表现，一方认为现在这种时期好好待在家开学了见面就好了。我不置可否，也许有周围人的判断的影响，但毕竟是自己放弃的那份未来，我能感觉到，他们已经不能回去了。这就是故事的结束吧。<br><br>难道我有毒？不见得吧。<br><br>另外的她们，在我心中萦绕不去，不是因为爱，只是因为我好不容易掏出的热情受到了极度的冷淡与漠视，所以我原本的好感与爱，转变为敌视与痛恨，时刻想着如何去报复，还笨拙地抱有侥幸地想去乞求认同。人们常说他们的女孩拒绝他们时，总是心怀感动地解释很久很久，而我遇到的主都很成熟稳重：绝不多说一句，不回复，不认识，见面打招呼当作看不见。很有意思，许是我看人都很准吧。我认识到，这与我3.14号那天说的有点类似，1万个人夸你，而你只会因那一个人的负面评论而终日闷闷不乐。我会抓住她们的行为不放，在心里煎熬郁郁而不得终结。虽然她们事实上什么也没做，就是面对他人小心翼翼试探时果断冷漠回应的“什么都不做”最能刺痛人心。我渐渐地深入地想，我只是不甘心罢了，只是不怀好意罢了，掂量不清自己的表与里，在大部分时候是吸引不到任何人的，不愿承认自己的主动几乎无一例外会受到冷漠回应罢了。我这样下去，与她们那种冷漠行为又有何区别了呢？她们没错，我也没错，不，我是有错的，不该不自量力。我做不到她们那样的极端冷漠，付出型人格，敏感，注定我无法冷淡对待每一份向我送来的期待。收到的这份冷，我要以百倍的热温暖出去。真是贱啊，明明别人不把你当人看，却不知脸皮往上靠，难道不应该果断还击嘛？当然那是会被抓住辫子，冷嘲热讽一番：“我已经向你表达过恶心了，你还要来干扰我的生活，要点脸嘛？”。当然，你更不能说人家没教养，否则你会得到这样的回复：“对你需要有教养？”。想想这份冷淡发生的那一刻，我就应该明白，我做不到像她们的那样，我们注定不是一类人。当然既然你已经被定义为“厌烦者”你的所有行为都是讨厌且无意义的。当然，现在看来这些都不值一提，毫无意义。只是我内心不该存在的灰尘罢了。<br><br>那日夜晚：<br>皓月星辰，银河环绕，一人一狗，便踏遍这围城。<br>繁星点缀，绿野黑蒙，一曲一吟，便走过半生。<br><br>今日应学姐要求赋雪诗：<br>山中仿徨，偶见初雪。行将之，顾环宇，雪之弥蒙，山峰沉眠。呼气见青烟，心神怡定，此一人乐也。<br><br>近期参加了「one」的实习活动，做个自我介绍吧，大家生活都很充实，荣誉加身，我想想写什么都不合适，写写心情吧。</font>
+
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D.jpg width="350"/>
+
+- 1️⃣&emsp;健身
+
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200414015356.png" height = "350"/>
