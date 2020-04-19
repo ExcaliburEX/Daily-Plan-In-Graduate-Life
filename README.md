@@ -683,12 +683,12 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">😶</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">😶</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">✅</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">😶</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2042413">✅</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">😀</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">😡</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">😨</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">😨</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">😨</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">😁</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">❎</td>
                  <td width= "100" align="center" >👻</td>
     </tr>
     <tr>
@@ -1270,3 +1270,12 @@
 - 1️⃣&emsp;健身
 
 <img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200414015356.png" height = "350"/>
+
+
+## <font face="Times New Roman">20.4.14~4.19</font>
+> <font face="Noto Serif SC"> &emsp;&emsp;我好像一直忘记一件事：我是正义的伙伴，不应该有这种小肚鸡肠的想法。“往后我们还有无数次的日子要过，反正到头来人生只是那么一回事。如果我把那么多事情思来想去，未免太伤神了。你那么年轻，应该努力向前奔。”约翰·斯坦贝克的一番话是此时的我正需要的。你看，一星陨落，黯淡不了星空璀璨；一花凋零，荒芜不了整个春天。也就是说让别人快乐，叫做情商，而让自己快乐，那才是人生。总之低调是为了生活在自己的世界里，高调是为了生活在别人的世界里。最后，如果我们一同被人梦见，那便是我们的相逢。正義の味方ですから。</font>
+
+- 1️⃣&emsp;健身
+
+
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-04-15.jpg" width = "400"/><img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-04-17.jpg" width = "400"/>
