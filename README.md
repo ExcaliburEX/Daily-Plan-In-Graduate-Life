@@ -1284,7 +1284,7 @@
 ## <font face="Times New Roman">20.4.20~4.30</font>
 > <font face="Noto Serif SC"> &emsp;&emsp;这段时间杂事不少，都写在了[kemo_4.20~4.30](https://github.com/ExcaliburEX/KeMo#20420430)。新发现是，大葱原来长这个样子：</font>
 
-<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-05-01-%E5%A4%A7%E8%91%B1.jpg" width = "400"/>
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-05-01-%E5%A4%A7%E8%91%B1.jpg"/>
 
 
 - 1️⃣&emsp;健身
