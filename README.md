@@ -689,10 +689,10 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">😨</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">✅</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">😨</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">😁</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20414419">❎</td>
-                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">🤗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">❎</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >3.21</td>
+                 <td width= "100" align="center" >4.21</td>
                  <td width= "100" align="center" >4.22</td>
                  <td width= "100" align="center" >4.23</td>
                  <td width= "100" align="center" >4.24</td>
@@ -704,16 +704,16 @@
                  <td width= "100" align="center" >4.30</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">🤯</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">🦌</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">🐙</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">🐷</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">🐵</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">🍓</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">🤞</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">😵</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">🤫</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">😐</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20420430">❎</td>
     </tr>
 </table>
 
@@ -1279,3 +1279,14 @@
 
 
 <img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-04-15.jpg" width = "400"/><img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-04-17.jpg" width = "400"/>
+
+
+## <font face="Times New Roman">20.4.20~4.30</font>
+> <font face="Noto Serif SC"> &emsp;&emsp;这段时间杂事不少，都写在了[kemo_4.20~4.30](https://github.com/ExcaliburEX/KeMo#20420430)。新发现是，大葱原来长这个样子：</font>
+
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-05-01-%E5%A4%A7%E8%91%B1.jpg" width = "400"/>
+
+
+- 1️⃣&emsp;健身
+
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-04-25-%E8%B7%91%E6%AD%A5.jpg" width = "400"/><img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-04-28-%E8%B7%91%E6%AD%A5.jpg" width = "400"/>
