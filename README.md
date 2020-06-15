@@ -833,11 +833,11 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2051365">😟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2051365">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2051365">😋</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2051365">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2051365">😟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2051365">❎</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >6.11</td>
@@ -852,11 +852,11 @@
                  <td width= "100" align="center" >6.20</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">😬</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2066615">❎</td>
                  <td width= "100" align="center" >👬</td>
                  <td width= "100" align="center" >👬</td>
                  <td width= "100" align="center" >👬</td>
@@ -1464,7 +1464,7 @@
 
 
 ## <font face="Times New Roman">20.5.1~5.12</font>
-> <font face="Noto Serif SC"> 少年不识愁滋味，爱上层楼。爱上层楼。为赋新词强说愁。<br>而今识尽愁滋味，欲说还休。欲说还休。却道天凉好个秋。<br><br>真的难，是真的难。<br><br>这半个月过的是真的辛酸，一忽疹疾缠身，一忽又骑车飞摔，蹭的皮开肉绽。身体动弹不得，疹疾又致全身不得按宁。着实不知如何是好，现如今母上也奔赴都市生活，不知不觉，这段儿时至现在都未曾体验过的与母上一起生活这么久的时光已然结束了。激动的三月，慵懒的四月，以前未曾想到会有这样的一段怀念终身的生活，原以为这样的生活只有很多年后的年老之时才可体验。如今只因其过于美好，但终究是要结束的，即使我迷恋这样的生活，但内心的忧虑却也不断地在增加，再美好的时光，但总也要面对现实的压迫的。它的日复一日，每天的日常又是如此的重复，母亲终日看着小说，而我终日地在楼上看着电脑，虽然不舍，但这样的生活终究是不平衡的，我们都不应该被束缚在这里，虽然我们幸福地平平淡淡地陪伴在彼此左右，但此时的它应该是短暂的，我们彼此都有应该去做的事情，于当前，它只是看上去那么平静罢了，可我们还未实现的东西太多了，这样的生活提前来到了，幸福了但也徒增了很多不安。</font>
+> <font face="Noto Serif SC"> 少年不识愁滋味，爱上层楼。爱上层楼。为赋新词强说愁。<br>而今识尽愁滋味，欲说还休。欲说还休。却道天凉好个秋。<br><br>真的难，是真的难。<br><br>这半个月过的是真的辛酸，一忽疹疾缠身，一忽又骑车飞摔，蹭的皮开肉绽。身体动弹不得，疹疾又致全身不得按宁。着实不知如何是好，现如今母上也奔赴都市生活，不知不觉，这段儿时至现在都未曾体验过的与母上一起生活这么久的时光已然结束了。激动的三月，慵懒的四月，以前未曾想到会有这样的一段怀念终身的生活，原以为这样的生活只有很多年后的年老之时才可体验。如今只因其过于美好，但终究是要结束的，即使我迷恋这样的生活，但内心的忧虑却也不断地在增加，再美好的时光，但总也要面对现实的压迫的。它的日复一日，每天的日常又是如此的重复，母亲终日看着小说，而我终日地在楼上看着电脑，虽然不舍，但这样的生活终究是不平衡的，我们都不应该被束缚在这里，虽然我们幸福地平平淡淡地陪伴在彼此左右，但此时的它应该是短暂的，我们彼此都有应该去做的事情，于当前，它只是看上去那么平静罢了，可我们还未实现的东西太多了，这样的生活提前来到了，幸福了但也徒增了很多不安。
 
 - 1️⃣&emsp;有哪些表达“我爱你”的“高级表达”
 
@@ -1616,7 +1616,7 @@ Miraitowa   永远期待着明亮的未来
 
 49.“如果时间像古早的磁带被放进收音机按下倒放键，列车背离终点，落雨返还天空，鱼类集体洄游，你踏上归途，重新握住我的手。 ”
 
-50.“我是个喜欢到处跑的人，雪山需要坐缆车才能上去，瀑布底下偶尔会冒出小小的彩虹，10岁的时候许愿要被东南沿海的浪潮打在身上，想过要去很多很多地方，但二十几岁时突然遇见你，最后只想窝在家里的沙发上睡大觉，和你。 ”
+50.“我是个喜欢到处跑的人，雪山需要坐缆车才能上去，瀑布底下偶尔会冒出小小的彩虹，10岁的时候许愿要被东南沿海的浪潮打在身上，想过要去很多很多地方，但二十几岁时突然遇见你，最后只想窝在家里的沙发上睡大觉，和你。 ”</font>
 
 
 
@@ -1624,3 +1624,48 @@ Miraitowa   永远期待着明亮的未来
 
 ## <font face="Times New Roman">20.5.13~6.5</font>
 > <font face="Noto Serif SC">&emsp;&emsp;时间已经进行到这里了吗？我也不知道呢。一晃又是将近一个月过去了，我也从山里出落到了市巷之中。</br></br>那之后的一段时间依然待在那间房间的那个位置上，永远是一个人无限地沉思，遐想，做着一个人的梦，窗外的风景永远一成不变，偶有拉货的车路过，扬起的灰尘慢慢的也就散了————这样的生活，早已使我厌倦，但却也令我深陷其中，迷恋这样的时光，希望其永远持续下去，每天能吃上奶奶做的饭，披星戴月，写着自己的代码，夕阳中蹒跚着踱步，没有目的，没有思绪，只是呆呆地注视着远方。夜间，一人一狗，到处徜徉，仰头观星，永远是熟悉的感觉，永远是被漫天星所包围，世间一片安静，仿佛世界本就是如此，如此静谧，如此宏大，我只是那般渺小，这一片刻的宁静仿佛是永恒，就像《世界尽头与冷酷仙境》那般地令人迷恋。可转瞬，手机震动，又把我拉回了现实，是啊，这世界已经不再如此地简单了，有太多太多非自然的东西了，有科技，有社会，有各种各样复杂的东西，以至于我想起来就头疼。当然此时的我，仿佛也失去了斗志。</br></br>这场持久战终究是要结束的，4个月了，也该走向终点了。</br></br>离别的时刻，终究是要到来的。我还是决定走，去趟南京，会会昆仑儿，会会忠太，会会世界。城市依旧是熟悉的感觉，人群，高铁，陌生人傲慢的眼神，不敢盯着看的脸庞，眼神交际间感受到的不屑，熟悉的味道，我的敏感，依然还是发挥着它强大的感官作用，进而持续破坏着我的心情。昆仑的公寓宾馆还是很香的，依据我宅的性格，当然进去了就不想出来了，毕竟是如此的舒适的空间。五人会的火锅还是很香的，依然不懂如何聊天。爬山我是没去的，电灯泡也不好。好了，酒喝得很爽，聊的也很尽兴，也解了一些心结。那夜，也是疯狂分享的一夜。离别时刻，也是突然发现之前心心念念她家的地址，居然就在之前公寓酒店附近，离我直线距离不到1公里。能把这种公寓酒店当家，确实...只能让忠太送我路过那地方的时候，假装拍张照片，然后发个带定位的pyq，试探一下，她会不会觉得很巧，我居然来到她的城市，而且就在她家附近拍了照片。当然，没有任何回应，也无所谓了。</br></br>回家了。又是跟脚残和昆仑儿瞎逛的一天。业务繁忙的脚残终究还是提前离去，徒留我们又抱怨了一番公司，社会，读研。也在奔波中体验了一把灯火山塘的美，当然是循着两双腿中不断移进的(还是不懂她们为什么喜欢鞋子不好好穿，非得拖着，然后脚后跟踩在鞋子的后攀上，不难受嘛？不浪费鞋嘛？虽然满足了我的欲望)。</br></br>之后的几天，平平无奇，只是大黄，突然说聚聚。说去就去，大黄，贝贝，晓梦大概有4年没见了，还有师奶和宇杰儿，虽然组合很奇怪，但还是吃的很开心的。大黄的PTSD和失忆以及被他遗忘的女友，他也不像从前那般毒舌，不再具备攻击性，一见到我就靠过来，弄得还稍微不好意思。众人还是挺揪心的，但也束手无策，只能陪他聊聊过往，缓解缓解。师奶的八卦还是挺多的，小武也确实挺惨的，无数次破碎的心。我是看出来了，无论什么样的饭局，最后总会转移到情感话题的专题讲座。只能当小白，求取经验，那还能怎么办呢？</br></br>话似乎还有很多，但想说的却没有很多。</font>
+
+
+## <font face="Times New Roman">20.6.6~6.15</font>
+> <font face="Noto Serif SC">&emsp;&emsp;回到公司后，生活确实丰富了起来。第一天就开始聚餐，一直连续聚了七八天，仿佛从我来开始每天晚上都会出去吃饭。一时间，大家开始抗拒出去吃饭这种令人愉悦的放松方式，太痛苦了，立下军令状，明晚绝不出门吃饭，不知明晚会如何。这些天经历了很多，我们聊了很多，经历了研二的开题答辩，课题的光明前程仿佛已经向我们打开了大门，但依旧毫无进展。大家都回来了，我们终于可以一起工作了、</br></br>9号的举杯</br></br>10号的花甲聚餐前途瞎聊</br></br>11号的老板翔哥画饼会，回忆录，公司谈</br></br>12号的。。。最后说</br></br>13号与民哥共赴的莫名3女2男KTV歌友会</br></br>14号的全天浩哥会议室二人动漫电影大观览，顺便补完了《昨日之歌》这部胃疼番，还差最后一集，不知道会有什么反转</br></br>15号，雨晴师姐回来，此时众人已经对外出吃饭充满了抗拒，但龙爷火锅真香，最香的还是餐桌上的欢声笑语，从情感到生活到未来。</br></br>好像还忘了什么，对了，那个电闪雷鸣交加的夜晚，我们坦白了，其实也没什么，二十多岁的人了，没有体验过那事，有点需求很正常，大家都很坦率，大胆分享，车也开得很稳，也没什么避讳的，自己安稳地解决问题罢了，不需要麻烦别人，那个她不过是柏拉图式的恋人。</font>
+
+- 1️⃣&emsp;一些句子
+
+1. 王羲之说：夫人之相与，俯仰一世，或取诸怀抱，悟言一室之内；或因寄所托，放浪形骸之外。</br>
+人这一生，如昙花一现。如草木春绿秋枯，如曦月东升西落。</br>
+但偏偏这一生欲望却有很多。</br>
+小时候溪头卧剥莲蓬，忙趁东风放纸鸢，急走追黄蝶，也傍桑阴学种瓜，归来饱饭黄昏后，不脱蓑衣卧月明。</br>
+长大后希望金榜题名，希望有佳人相伴，希望钱财不断，希望节节高升，希望高朋满座，希望夜夜笙歌。</br>
+老了又想要健康长寿，僮仆欢迎，稚子候门，有一盘棋，一知己，一壶酒，一庭院，安享天伦。</br>
+你看世人慌慌张张，不过图碎银几两。偏偏这碎银几两，能解世间万种惆怅。</br>
+有一大半的人还在为生活挣扎，哪里有时间去寻找意义？</br>
+其实人这一生，不过是一场体验，就和草木，日月一样，体验这欲望的轮回。</br>
+活不明白就会觉得，寄蜉蝣于天地，渺沧海之一粟。哀吾生之须臾，羡长江之无穷。活明白了就会欣于所遇，暂得于己，快然自足，不知老之将至。</br>
+你可以追求这金钱名利，你也可以追求诗酒花茶，你可以追求江上之清风，也可以追求山间之明月。</br>
+但是不用过分在意追求的结果，结果终将逝去。</br>
+穷极一生，来到人间，尽可能的体验世间的喜怒哀乐，生老病死。</br>
+很喜欢大鱼海棠的这句话。</br>
+我们这一生很短，我们终将会失去它，所以不妨大胆一点， 爱一个人，攀一座山，追一次梦，不妨大胆一点，有很多事没有答案。</br>
+很喜欢《兰亭集序》和《赤壁赋》。</br>
+每览昔人兴感之由，若合一契，未尝不临文嗟悼，不能喻之于怀。固知一死生为虚诞，齐彭殇为妄作。后之视今，亦犹今之视昔。悲夫！</br>
+故写此文，记录所感，虽世殊事异，所以兴怀，其致一也。</br>
+后之览者，亦将有感于斯文。</br>
+人生得意须尽欢，于是饮酒乐甚，扣舷而歌之。</br>
+歌曰：</br>
+小楼一夜听春雨，深巷明朝卖杏花。</br>
+
+2. 语言和文字真的是不可执取的东西，当一句话说出来或者写下来，它就不是你的了，你必须允许别人任意解读，甚至误读。所以我最想说的话，其实在我开口的一刹那就已经说完。</br></br>
+
+3. 每个人都会有缺陷，就像被上帝咬过的苹果，有的人缺陷比较大，正是因为上帝特别喜欢他的芬芳。</br></br>
+
+4. 有一个夜晚我烧毁了所有的记忆，从此我的梦就透明了。有一个早晨我扔掉了所有的昨天，从此我的脚步就轻盈了。</br></br>
+
+5. 今天的日出很美，很想分享与你，但突然想到好久没和你聊过天了，后来想想又觉得其实今天的日出也没多好看。</br></br>
+
+- 2️⃣&emsp;**健身**
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-05-16-%E8%B7%91%E6%AD%A5.jpg" width = "375"/><img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-11-%E8%B7%91%E6%AD%A5.jpg" width = "375"/>
+
+- 3️⃣&emsp;**近来**
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-01-%E7%A5%9E%E5%85%89%E6%A3%92.jpg" width = "375"/><img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-08-%E8%81%9A%E9%A4%90.jpg" width = "375"/>
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-15-%E7%BB%84%E5%86%85%E8%81%9A%E9%A4%90.jpg" width = "800"/>
+
