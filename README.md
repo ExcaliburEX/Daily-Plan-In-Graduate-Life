@@ -881,11 +881,11 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20623625">💜</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20623625">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20623625">💜</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20623625">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20623625">💜</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20623625">❎</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
-                 <td width= "100" align="center" >👬</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20626629">😟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20626629">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20626629">😟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20626629">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20626629">😟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20626629">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20626629">😟</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20626629">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20630">❤️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20630">❎</td>
     </tr>
 </table>
 </font>
@@ -1754,3 +1754,20 @@ Miraitowa   永远期待着明亮的未来
 
 ## <font face="Times New Roman">20.6.26~6.29</font>
 > <font face="Noto Serif SC">&emsp;&emsp;今天晚上的月亮好美，想要跟你分享，但一想我们好久没聊天了，想到这，突然觉得月亮也不漂亮了。</br></br>你的目光总是看着我看不见的远方，看着窗外，看着天空，我总想赶上，却总也追不上。</br>目光交汇时，你的眼神满含惆怅，却故作轻松，我看得清，却又仿佛看不清。</br>你应该有很多话要告诉我，却好像什么也没说，我只是静静倾听，别无他求。</font>
+
+
+## <font face="Times New Roman">20.6.30</font>
+> <font face="Noto Serif SC">&emsp;&emsp;今日真的难得的晴天，弄了一天的各种markdown以及overleaf的写作模板，大概算是一劳永逸吧。晚上大家一起厨房炒粉，圆桌谈，亭台聊人生，三国无限杀，乐趣实在无穷。不禁怀疑，这生活是不是太美滋滋了、</font>
+
+
+- **一些句子**
+  - 是“Wow”!</br>霍金对这个世界发出的词，是惊叹。即使他一生受尽病痛折磨，全身失去控制能力，他对于这个世界，依然像一个孩童般热爱。</br>言犹在耳，霍金却已离我们而去。在迈克尔·怀特与约翰·葛瑞本所著的《霍金传》中，霍金首先是一个天赋异禀、敢于直言、敢于想象的科学家，其次才是一个身残志坚，可敬的人。</br>这位从年轻时起就坐在轮椅上的科学家，从没放弃对宇宙的探索，也从未丢失对生活的信心。正如霍金自己说过：“如果生活没有了乐趣，那将是一场悲剧。”</br>3月14日是爱因斯坦的生日，霍金于同一天去世，有人说，他大概是去给爱因斯坦过生日了。那么，祝福两位伟人在某个星球安好
+  - 老一辈人，先苦后甜，我们这一代，先甜后苦。先苦后甜易，先甜后苦难。</br>正如钱钟书的《围城》里写道：天下只有两种人。譬如一串葡萄到手，一种人挑最好的先吃，另一种人把最好的留在最后吃。照例第一种人应该乐观，因为他每吃一颗都是吃剩的葡萄里最好的；第二种人应该悲观，因为他每吃一颗都是吃剩的葡萄里最坏的。</br>不过事实上适得其反，缘故是第二种人还有希望，第一种人只有回忆。
+  - 最难熬的状态就是，眼里操心着不再年轻的父母，脑子里想着乱七八糟的事业，心里还藏着一个不可能的姑娘，胸膛里还撑起着一个遥远的远方！
+  - 有一个夜晚我烧毁了所有的记忆，从此我的梦就透明了。有一个早晨我扔掉了所有的昨天，从此我的脚步就轻盈了。
+  - 每个人都会有缺陷，就像被上帝咬过的苹果，有的人缺陷比较大，正是因为上帝特别喜欢他的芬芳。
+  - 语言和文字真的是不可执取的东西，当一句话说出来或者写下来，它就不是你的了，你必须允许别人任意解读，甚至误读。所以我最想说的话，其实在我开口的一刹那就已经说完。
+  
+- 昨夜的月亮
+
+![6.29的月亮](https://photos-1259799643.cos.ap-shanghai.myqcloud.com/%E5%B2%81%E6%9C%88%E5%A6%82%E6%AD%8C/6.29%E7%9A%84%E6%9C%88%E5%85%89.jpg)
