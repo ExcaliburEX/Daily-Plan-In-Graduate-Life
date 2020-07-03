@@ -888,6 +888,92 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20630">❤️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20630">❎</td>
     </tr>
 </table>
+
+
+
+
+# ♌ 2020.7月
+<table>
+    <tr>     
+                <td colspan="2" width= "120" align="center" >2020.7月</td>
+                <td colspan="2" width= "120" align="center" >学习|健身</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >7.1</td>
+                 <td width= "100" align="center" >7.2</td>
+                 <td width= "100" align="center" >7.3</td>
+                 <td width= "100" align="center" >7.4</td>
+                 <td width= "100" align="center" >7.5</td>
+                 <td width= "100" align="center" >7.6</td>
+                 <td width= "100" align="center" >7.7</td>
+                 <td width= "100" align="center" >7.8</td>
+                 <td width= "100" align="center" >7.9</td>
+                 <td width= "100" align="center" >7.10</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">😑</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">😉</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">✅</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">😑</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">❎</td>
+                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" >👻</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >7.11</td>
+                 <td width= "100" align="center" >7.12</td>
+                 <td width= "100" align="center" >7.13</td>
+                 <td width= "100" align="center" >7.14</td>
+                 <td width= "100" align="center" >7.15</td>
+                 <td width= "100" align="center" >7.16</td>
+                 <td width= "100" align="center" >7.17</td>
+                 <td width= "100" align="center" >7.18</td>
+                 <td width= "100" align="center" >7.19</td>
+                 <td width= "100" align="center" >7.20</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >7.21</td>
+                 <td width= "100" align="center" >7.22</td>
+                 <td width= "100" align="center" >7.23</td>
+                 <td width= "100" align="center" >7.24</td>
+                 <td width= "100" align="center" >7.25</td>
+                 <td width= "100" align="center" >7.26</td>
+                 <td width= "100" align="center" >7.27</td>
+                 <td width= "100" align="center" >7.28</td>
+                 <td width= "100" align="center" >7.29</td>
+                 <td width= "100" align="center" >7.30</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+    </tr>
+</table>
+
+
+
 </font>
 
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
@@ -1759,6 +1845,8 @@ Miraitowa   永远期待着明亮的未来
 ## <font face="Times New Roman">20.6.30</font>
 > <font face="Noto Serif SC">&emsp;&emsp;今日真的难得的晴天，弄了一天的各种markdown以及overleaf的写作模板，大概算是一劳永逸吧。晚上大家一起厨房炒粉，圆桌谈，亭台聊人生，三国无限杀，乐趣实在无穷。不禁怀疑，这生活是不是太美滋滋了、</font>
 
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-22-keep.jpg><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-30-keep.jpg>
+
 
 - **一些句子**
   - 是“Wow”!</br>霍金对这个世界发出的词，是惊叹。即使他一生受尽病痛折磨，全身失去控制能力，他对于这个世界，依然像一个孩童般热爱。</br>言犹在耳，霍金却已离我们而去。在迈克尔·怀特与约翰·葛瑞本所著的《霍金传》中，霍金首先是一个天赋异禀、敢于直言、敢于想象的科学家，其次才是一个身残志坚，可敬的人。</br>这位从年轻时起就坐在轮椅上的科学家，从没放弃对宇宙的探索，也从未丢失对生活的信心。正如霍金自己说过：“如果生活没有了乐趣，那将是一场悲剧。”</br>3月14日是爱因斯坦的生日，霍金于同一天去世，有人说，他大概是去给爱因斯坦过生日了。那么，祝福两位伟人在某个星球安好
@@ -1771,3 +1859,6 @@ Miraitowa   永远期待着明亮的未来
 - 昨夜的月亮
 
 ![6.29的月亮](https://photos-1259799643.cos.ap-shanghai.myqcloud.com/%E5%B2%81%E6%9C%88%E5%A6%82%E6%AD%8C/6.29%E7%9A%84%E6%9C%88%E5%85%89.jpg)
+
+## <font face="Times New Roman">20.7.1~7.3</font>
+> <font face="Noto Serif SC">&emsp;&emsp;近来时晴时雨，一号的晴天朗日，傍晚出门取外卖的温晴草香，令人陶醉。二号的又诉诸了衷肠，可是又如何，不过是徒增烦恼，我的内心早就知道那些现实的原因，可是我又能怎样呢，也没什么遗憾的。做不出来的事情，说出来也没有任何意义，我不会对她太过于直白，我也不会就此放弃，我恐怕永远也不敢说出我的心意，就算我向她展现了某些代表价值的东西，那又如何，又能表达什么呢，这样是告诉她我很有钱还是在乞求她的认可还是怜悯？</br></br>除了把实验室的Latex模板弄出来，记得1号弄了一天简历的模板，然后用了一份跟白天弄的没关做的自己的简历，最后苏州微软没有任何回信。</br></br>当然那个下午还是充实又开心的一段时光，一起创造新的具有纪念意义的事物，共同创造的乐趣，这恐怕就是古往今来人人乐于称道的事情吧。今天计划了7号的之后的事情，希望能实施顺利吧。</font>
