@@ -1766,7 +1766,7 @@ Miraitowa   永远期待着明亮的未来
 
 
 <img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-01-%E7%A5%9E%E5%85%89%E6%A3%92.jpg" width = "375"/><img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-08-%E8%81%9A%E9%A4%90.jpg" width = "600"/>
-<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-15-%E7%BB%84%E5%86%85%E8%81%9A%E9%A4%90.jpg" width = "800"/>
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-15-%E7%BB%84%E5%86%85%E8%81%9A%E9%A4%90.jpg" width = "400"/>
 
 
 
@@ -1845,7 +1845,7 @@ Miraitowa   永远期待着明亮的未来
 ## <font face="Times New Roman">20.6.30</font>
 > <font face="Noto Serif SC">&emsp;&emsp;今日真的难得的晴天，弄了一天的各种markdown以及overleaf的写作模板，大概算是一劳永逸吧。晚上大家一起厨房炒粉，圆桌谈，亭台聊人生，三国无限杀，乐趣实在无穷。不禁怀疑，这生活是不是太美滋滋了、</font>
 
-<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-22-keep.jpg height="290"><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-30-keep.jpg height="290">
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-22-keep.jpg width="375"><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-06-30-keep.jpg width="375">
 
 
 - **一些句子**
