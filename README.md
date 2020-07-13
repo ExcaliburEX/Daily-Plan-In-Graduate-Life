@@ -914,13 +914,13 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">😑</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">😉</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">✅</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">😑</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207173">❎</td>
-                 <td width= "100" align="center" >💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207475">❎</td>
-                 <td width= "100" align="center" >💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207475">❎</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
-                 <td width= "100" align="center" >👻</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207475">💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207475">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207475">💗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207475">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2076">🐶</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2076">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2077">🖤</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2077">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207879">💔</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207879">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207879">💔</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#207879">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">◼️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">❎</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >7.11</td>
@@ -935,9 +935,9 @@
                  <td width= "100" align="center" >7.20</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" >👻</td> 
-                 <td width= "100" align="center" >👻</td> 
-                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">◼️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">◼️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20713">🏳️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20713">❎</td>
                  <td width= "100" align="center" >👻</td> 
                  <td width= "100" align="center" >👻</td> 
                  <td width= "100" align="center" >👻</td> 
@@ -1880,3 +1880,12 @@ Miraitowa   永远期待着明亮的未来
 
 ## <font face="Times New Roman">20.7.10~7.12</font>
 > <font face="Noto Serif SC">&emsp;&emsp;这两天怎么度过的，有些失忆了。我有两个整夜完全睡不着，脑海中不断播放着那夜的种种过往，不断划过的瞬间都是她微笑的侧颜，我睡不着却也“醒不来”。恍惚中，我仿佛静止般，时间却在恪尽职守地往前走。11号，他们还没有回来，老板带我们和新来的师弟吃了一顿那永远隔岸相望的顾亭酒家。红酒喝的有点猛，思维就越发活跃，有些我平常觉得说出来挺无聊的话，此刻说出来好像很自然。我不善于说发生的与自己有关的事，因为大部分我觉得说出来也没人听，毕竟稀松平常的小事，虽然我自己觉得很有趣，但一旦分享出来，大多数时候我会觉得对方要不然会认为我无聊，要不然就会觉得我在装x，或许这才是真正地相投吧，她都能听得下去。她倒是想说下成语宽慰我现在的心情，却演变成了成语接龙，诗句接龙。接着就是稀里糊涂的平江之旅，又是稀里糊涂我就成了带大家进酒吧的老司机。</br></br>老哥们回来之后，或许我真应该去一趟，领略一下几天看的美女比大学四年看的都多是什么感觉，大家很想分担分担我的苦楚。我知道其实到头来改变不了什么，我只希望通过我的经历，给大家一点警醒，一点痛彻心扉的顿悟。此刻放弃应该是最好的选择吧，话深酒醉时，差点就一股脑地把现在的心情都倾泻给她了，我知道这是一时的意气用事，这样我会后悔，她会觉得受到冒犯。总之，这就是今晚的故事吧。</font>
+
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-13.jpg" width = "800"/>
+
+
+## <font face="Times New Roman">20.7.13</font>
+> <font face="Noto Serif SC">&emsp;&emsp;
+> 放一些以前的话吧。
+> 
+> **我们看过太多文学，影视；听过太多歌曲，故事；闻过太多芬芳，记忆；感受过太多情感，历史。以至于我大多数情况下，知道这种情况说什么样的话会引发什么样的后果，短暂的那几秒已经做了无数次的推演，又囿于我看的还不足够多，或者说我思考的还不足够多，我想不到其他更好的措辞或者措施来缓解当下的情况，所以说不出更加合适的话语。一时间我只得像以往一样般地消极沉默应对，但事实上我已经在两种精量之间湮灭了我所有的话语与心力。</br></br>“沉默是金”，可金子的内心是冰冷的，而我的心流已经奔涌于焰心之上，所以应该是：</br></br>沉默是烟</br></br>吧。**</font>
