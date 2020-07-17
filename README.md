@@ -941,10 +941,10 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">◼️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">◼️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20710712">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20713">🏳️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20713">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2071416">🙊</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2071416">❎</td> 
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2071416">📕</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2071416">✅</td> 
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2071416">📗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2071416">✅</td> 
-                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20714717">🙊</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20714717">❎</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20714717">📕</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20714717">❎</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20714717">📗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20714717">✅</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20714717">📗</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20714717">✅</td> 
                  <td width= "100" align="center" >👻</td> 
                  <td width= "100" align="center" >👻</td> 
                  <td width= "100" align="center" >👻</td> 
@@ -1893,7 +1893,7 @@ Miraitowa   永远期待着明亮的未来
 > 
 > **我们看过太多文学，影视；听过太多歌曲，故事；闻过太多芬芳，记忆；感受过太多情感，历史。以至于我大多数情况下，知道这种情况说什么样的话会引发什么样的后果，短暂的那几秒已经做了无数次的推演，又囿于我看的还不足够多，或者说我思考的还不足够多，我想不到其他更好的措辞或者措施来缓解当下的情况，所以说不出更加合适的话语。一时间我只得像以往一样般地消极沉默应对，但事实上我已经在两种精量之间湮灭了我所有的话语与心力。</br></br>“沉默是金”，可金子的内心是冰冷的，而我的心流已经奔涌于焰心之上，所以应该是：</br></br>沉默是烟</br></br>吧。**</font>
 
-## <font face="Times New Roman">20.7.14~7.16</font>
+## <font face="Times New Roman">20.7.14~7.17</font>
 > <font face="Noto Serif SC">&emsp;&emsp;这两天论文缠身，开完组会稍微喘了些气。晚上，什么都不相干，两人遂出门，肆意畅行，步至林深处，前有猫几只，则，撸猫，今日毕。</font>
 
 <img src='https://i.loli.net/2020/07/18/xkMi1cC2PepLWGE.jpg' width = "400" title='????_20200718015035.jpg' /><img src='https://i.loli.net/2020/07/18/ld3x67WbC5SiP8G.jpg' width = "400" title='????_20200718015043.jpg' />
