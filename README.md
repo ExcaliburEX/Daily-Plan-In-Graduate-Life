@@ -1,4 +1,7 @@
-# **2019**
+# **2019~2020**
+
+[![ExcaliburEX's github stats](https://github-readme-stats.vercel.app/api?username=ExcaliburEX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ExcaliburEX)
+
 - <font face="Noto Serif SC" color=#1E90FF>[柯摩的BLOG](https://www.kemo.xyz) </font>
 - <font face="Noto Serif SC" color=#1E90FF>[知乎专栏：柯摩的世界](https://zhuanlan.zhihu.com/c_1157679453546053632)</font>
 - <a href="https://weibo.com/u/5339619827/home?wvr=5" target="_blank"><img src="https://i.loli.net/2019/10/03/EpeGPqVW2yZHbIz.png" width = "30"/></a>
@@ -1889,3 +1892,6 @@ Miraitowa   永远期待着明亮的未来
 > 放一些以前的话吧。
 > 
 > **我们看过太多文学，影视；听过太多歌曲，故事；闻过太多芬芳，记忆；感受过太多情感，历史。以至于我大多数情况下，知道这种情况说什么样的话会引发什么样的后果，短暂的那几秒已经做了无数次的推演，又囿于我看的还不足够多，或者说我思考的还不足够多，我想不到其他更好的措辞或者措施来缓解当下的情况，所以说不出更加合适的话语。一时间我只得像以往一样般地消极沉默应对，但事实上我已经在两种精量之间湮灭了我所有的话语与心力。</br></br>“沉默是金”，可金子的内心是冰冷的，而我的心流已经奔涌于焰心之上，所以应该是：</br></br>沉默是烟</br></br>吧。**</font>
+
+## <font face="Times New Roman">20.7.14~7.15</font>
+> <font face="Noto Serif SC">&emsp;&emsp;</font>
