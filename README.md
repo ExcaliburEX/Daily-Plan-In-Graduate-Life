@@ -963,11 +963,11 @@
     </tr>
     <tr>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20718721">🏸</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20718721">✅</td> 
-                 <td width= "100" align="center" >👻</td> 
-                 <td width= "100" align="center" >👻</td> 
-                 <td width= "100" align="center" >👻</td> 
-                 <td width= "100" align="center" >👻</td> 
-                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">🏸</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">✅</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">🏸</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">✅</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">🏸</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">✅</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">🏸</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">✅</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">🏸</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20722726">✅</td> 
                  <td width= "100" align="center" >👻</td> 
                  <td width= "100" align="center" >👻</td> 
                  <td width= "100" align="center" >👻</td> 
@@ -1904,3 +1904,13 @@ Miraitowa   永远期待着明亮的未来
 
 
 <img src='https://i.loli.net/2020/07/22/3vJ19mDZhKtTOUL.jpg' title='????_20200722010923.jpg' /><img src='https://i.loli.net/2020/07/22/hpNCk8IgdwyBAEl.jpg' title='????_20200722010932.jpg' /><img src='https://i.loli.net/2020/07/22/2THMJaAQhmlwqZE.jpg' title='????_20200722010936.jpg' />
+
+
+## <font face="Times New Roman">20.7.22~7.26</font>
+> <font face="Noto Serif SC">&emsp;&emsp;记忆似乎有些模糊，24日是小治的生日，寿星又自己下厨准备了一桌菜，我们在一旁又是拍照，又是拍Vlog。里面忙的不亦乐乎，外面亦然。</br></br>幸而，步入露台庭院，夕阳中，为一人摄影，落日余晖中，有清纯可人，亦有惊鸿艳影，自是得意洋洋，也有赞不绝口。</br></br>关灯，欢歌笑语中，我们吹灭了过往的一瞬，做起了一场不愿醒来的清醒的梦。黑暗中的手机闪光蹦迪，个人solo秀，JCQ组合的出道第N次秀，不同寻常的一次学猫叫，最后的大合拍卡路里，这场“夜夜笙歌”已经镌刻入那永不褪色的名为“我们”的画卷。</br></br>25日，大集合追了一波BML的云LIVE，失去了去不了现场的心理不平衡感，今天奇怪的是，大家都很累，我也是，明明啥也没干。26日，李婷儿组织的密室秀就开启了集合，恐怖倒不是特别恐怖除了NPC，主要是全程都很黑暗，所以这种未知令人不安，没有完成有些遗憾，但是最后听完解说之后，只能说一句，幸好没通关。当然在那场黑暗中，有个女孩一直站着没动，我就也一直等她动，导致她的人影一直不动，我就一直站在原地，我怕往前走撞到她。当后来有些光影时，她说你吓到了我了，你为什么一直不动啊！我说，我怕撞到你啊，还有鬼再来怎么办呢！后来就是一下午的大型狼人杀，连续6把狼人，我这运气没谁了，导致后来我只要一笑，他们就猜出来我是谁了，“他笑的像朵花一样”，还是那个女孩。</br></br>回来后，老板跟我和yq开始讨论读博与上市实现财务自由的事情，那些有我当然开心，没有我也不去奢望，老板很善良，但我只想发篇论文而已。小治，静静我们叁，后来又聊到了后半夜，感情，论文，项目，到处都是坑，一个太累没有未来，一个太难没有结果。也许我们唯一可以称到的点就是，站在2020看2010，ML是一个新起之秀，引领者未来十年的科技巨变，那么站在2030看2020，我们恐怕可以攥紧这张可以登上这辆即将全速前进的列车的车票，至于我们是否会被中途踢下车，还是上错了车，都已经不重要，至少，我们不会在2020去做2010已经做完的事了。</font>
+
+<a href="https://sm.ms/image/a5GgTQ1Fue7yPUV" target="_blank"><img src="https://i.loli.net/2020/07/27/a5GgTQ1Fue7yPUV.jpg" /></a>
+<a href="https://sm.ms/image/L6s3oKQR8NEBgZY" target="_blank"><img src="https://i.loli.net/2020/07/27/L6s3oKQR8NEBgZY.jpg" /></a>
+<a href="https://sm.ms/image/LZtvJKHeu2xUOkE" target="_blank"><img src="https://i.loli.net/2020/07/27/LZtvJKHeu2xUOkE.jpg" /></a>
+<a href="https://sm.ms/image/oLz1mQye9JtvcV5" target="_blank"><img src="https://i.loli.net/2020/07/27/oLz1mQye9JtvcV5.jpg" /></a>
+
