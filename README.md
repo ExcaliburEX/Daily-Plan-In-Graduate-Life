@@ -977,6 +977,87 @@
 
 
 
+# ♌ 2020.8月
+<table>
+    <tr>     
+                <td colspan="2" width= "120" align="center" >2020.8月</td>
+                <td colspan="2" width= "120" align="center" >学习|健身</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >8.1</td>
+                 <td width= "100" align="center" >8.2</td>
+                 <td width= "100" align="center" >8.3</td>
+                 <td width= "100" align="center" >8.4</td>
+                 <td width= "100" align="center" >8.5</td>
+                 <td width= "100" align="center" >8.6</td>
+                 <td width= "100" align="center" >8.7</td>
+                 <td width= "100" align="center" >8.8</td>
+                 <td width= "100" align="center" >8.9</td>
+                 <td width= "100" align="center" >8.10</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >8.11</td>
+                 <td width= "100" align="center" >8.12</td>
+                 <td width= "100" align="center" >8.13</td>
+                 <td width= "100" align="center" >8.14</td>
+                 <td width= "100" align="center" >8.15</td>
+                 <td width= "100" align="center" >8.16</td>
+                 <td width= "100" align="center" >8.17</td>
+                 <td width= "100" align="center" >8.18</td>
+                 <td width= "100" align="center" >8.19</td>
+                 <td width= "100" align="center" >8.20</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+                 <td width= "100" align="center" ></td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >8.21</td>
+                 <td width= "100" align="center" >8.22</td>
+                 <td width= "100" align="center" >8.23</td>
+                 <td width= "100" align="center" >8.24</td>
+                 <td width= "100" align="center" >8.25</td>
+                 <td width= "100" align="center" >8.26</td>
+                 <td width= "100" align="center" >8.27</td>
+                 <td width= "100" align="center" >8.28</td>
+                 <td width= "100" align="center" >8.29</td>
+                 <td width= "100" align="center" >8.30</td>
+    </tr>
+    <tr>
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+                 <td width= "100" align="center" >👻</td> 
+    </tr>
+</table>
+
+
 </font>
 
 ![we](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life/blob/master/image/we.jpg)
@@ -1926,3 +2007,7 @@ Miraitowa   永远期待着明亮的未来
 <a href="https://sm.ms/image/XgjJlpTfq9rt4DY" target="_blank"><img src="https://i.loli.net/2020/08/04/XgjJlpTfq9rt4DY.jpg" /></a>
 <a href="https://sm.ms/image/CNbApgqwhxDW3UT" target="_blank"><img src="https://i.loli.net/2020/08/04/CNbApgqwhxDW3UT.jpg" /></a>
 <a href="https://sm.ms/image/HoLOU5zipPYAKVu" target="_blank"><img src="https://i.loli.net/2020/08/04/HoLOU5zipPYAKVu.jpg" /></a>
+
+
+## <font face="Times New Roman">20.8.4~8.7</font>
+> <font face="Noto Serif SC">&emsp;&emsp;现在已经是20200808了，时间已经走到了这里。这几天我已经说过无数遍这个日子了，它既预示着2020的结束，也暗示着“我依然爱你，但我们只能走到这里了，再见”的意思。计划了这么久，我终究还是没有下定决心在这一天去找她。毕竟，我们已经失联了这么久，无论是友情还是虚无缥缈的感情，一切都已归于平淡，她忙于工作，我也沉心于自我的世界，我们之间有太多的疏离，即使见到她，我又该如何不失尴尬地说出那些在心中翻涌无数次的话语呢。恐怕我是做不到的，这段时间，每逢深夜就在脑海中无数次地预演我即将在这个夜晚与她去看灵谷寺的萤火虫，在拍照的间隙，我目不转睛地盯着取景屏，轻描淡写地说：当初到底发生了什么呢？...我想坦白一切，我也知道最最根本的原因，我想告诉她我所有的想法，我想在这个最后的夏夜，四下无人的千年古刹，沐浴着晕黄色的求偶萤火中，袒露我所有的心扉，我承认这很自私，看似浪漫，实则只是在裹挟她的思想。我也想再次跟她说起那个“去月亮”的凄美悲怆的故事。可是，我知道我预演的越多，这件事实现的几率就越不大，我在自己的假想中得到了满足，另外我也没有那个胆量再而三地去见她，导致热情渐渐消散。如今我只想继续过好我的生活，不再去打扰她，对于她来说，她压根也没想起我还约过她8月去看萤火虫吧。</font>
