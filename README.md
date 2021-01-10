@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [**2019~2020**](#20192020)
+- [**2019~2021**](#20192021)
 - [♎️ <font face="Times New Roman">2019年9月](#️-font-facetimes-new-roman2019年9月)
 - [🦂 2019年10月](#-2019年10月)
 - [♐️ 2019.11月](#️-201911月)
@@ -154,9 +154,24 @@
 
 
 
-# **2019~2020**
+# **2019~2021**
 
-[![ExcaliburEX's github stats](https://github-readme-stats.vercel.app/api?username=ExcaliburEX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ExcaliburEX)
+<p align="center">
+<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ExcaliburEX&repo=Daily-Plan-In-Graduate-Life&show_owner=true&bg_color=30,e96443,904e95&cache_seconds=106400&theme=algolia" align="center" alt="ExcaliburEX's github stats">
+</a>
+<a href="https://github.com/ExcaliburEX">
+<img src="https://github-readme-stats.vercel.app/api?username=ExcaliburEX&show_icons=true&bg_color=30,4169E1,904e95&cache_seconds=106400&theme=chartreuse-dark" align="center" alt="ExcaliburEX's github stats">
+</a>
+</br>
+<a href="https://github.com/ExcaliburEX">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExcaliburEX&langs_count=8&show_icons=true&bg_color=50,e96443,904e95&cache_seconds=106400&theme=blueberry" align="center" alt="ExcaliburEX's github stats">
+</a>
+</br>
+<a href="https://github.com/ExcaliburEX">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ExcaliburEX&show_icons=true&bg_color=30,4169E1,904e95&cache_seconds=106400&theme=blueberry" align="center" alt="ExcaliburEX's github stats">
+</a>
+</p>
 
 - <font face="Noto Serif SC" color=#1E90FF>[柯摩的BLOG](https://www.kemo.xyz) </font>
 - <font face="Noto Serif SC" color=#1E90FF>[知乎专栏：柯摩的世界](https://zhuanlan.zhihu.com/c_1157679453546053632)</font>
