@@ -1,3 +1,5 @@
 {
-    "editor.fontFamily": "monaco, 'Courier New', monospace"
+    "editor.fontFamily": "monaco, 'Courier New', monospace",
+    "editor.snippetSuggestions": "bottom",
+    "editor.suggest.snippetsPreventQuickSuggestions": false
 }
