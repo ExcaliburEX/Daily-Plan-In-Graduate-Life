@@ -1,5 +1,6 @@
 {
-    "editor.fontFamily": "monaco, 'Courier New', monospace",
+    "editor.fontFamily": "Consolas, Noto Serif SC,'Courier New', monospace",
     "editor.snippetSuggestions": "bottom",
-    "editor.suggest.snippetsPreventQuickSuggestions": false
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "terminal.integrated.fontFamily": "FiraCode NF Retina"
 }
