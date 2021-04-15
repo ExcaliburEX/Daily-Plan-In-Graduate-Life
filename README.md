@@ -3130,10 +3130,20 @@ Miraitowa   永远期待着明亮的未来
 
 </table>
 
+
+
+<table>
+<tr>
+<th align = "center" colspan="1">
 <div style="text-align: center;">
 <h4 align="center">JULY COFFEE 内饰</h4>
-<img src="https://i.loli.net/2021/04/02/SopsVEvLMzxJ4tN.jpg" align="middle" />
-</div>
+</div></th>
+</tr>
+<tr>
+<td align = "center"><img src="https://i.loli.net/2021/04/02/SopsVEvLMzxJ4tN.jpg"></td>
+</tr>
+</table>
+
 
 
 
