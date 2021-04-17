@@ -158,6 +158,7 @@
   - [21.3.18~4.2](#2131842)
   - [21.4.3~4.7](#214347)
   - [21.4.8~4.15](#2148415)
+  - [21.4.16](#21416)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -3238,3 +3239,8 @@ Miraitowa   永远期待着明亮的未来
 <td align = "center"><img src="https://i.loli.net/2021/04/15/gyY6szQElFqbLdI.jpg"></td>
 </tr>
 </table>
+
+
+
+## 21.4.16
+> <font face="Noto Serif SC">&emsp;&emsp;宿舍聚会从来看不到人的乌雕云来独墅湖校区招人，秀的一批，把独墅湖从南逛到北再逛到南，时间没了，歇批，“龟龟，这就是校园啊”。</font>
