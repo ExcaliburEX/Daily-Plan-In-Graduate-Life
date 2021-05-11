@@ -3399,7 +3399,7 @@ Miraitowa   永远期待着明亮的未来
 </tr>
 
 <tr>
-<td align = "center"><img src="https://i.loli.net/2021/05/11/s1FZukm3MWAz5RY.jpg" width=500 ></td>
+<td align = "center"><img src="https://i.loli.net/2021/05/11/9YGTAB7OhXcryK4.jpg" width=500 ></td>
 <td align = "center"><img src="https://i.loli.net/2021/05/11/s1FZukm3MWAz5RY.jpg" width=500 ></td>
 </tr>
 
@@ -3409,7 +3409,7 @@ Miraitowa   永远期待着明亮的未来
 </tr>
 
 <tr>
-<td align = "center"><img src="https://i.loli.net/2021/05/11/1UocaqKJE2NybPf.jpg" width=500 ></td>
+<td align = "center"><img src="https://i.loli.net/2021/05/11/foOyqtnjSCUZbzs.jpg" width=500 ></td>
 <td align = "center"><img src="https://i.loli.net/2021/05/11/1UocaqKJE2NybPf.jpg" width=500 ></td>
 </tr>
 
