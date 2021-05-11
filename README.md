@@ -3390,7 +3390,7 @@ Miraitowa   永远期待着明亮的未来
 
 <tr>
 <td align = "center"><img src="https://i.loli.net/2021/05/11/pMfi9G7Te5lhDuz.jpg" width=500 ></td>
-<td align = "center"><img src="hhttps://i.loli.net/2021/05/11/Ge4s7n5M8Ec1pQz.jpg" width=500 ></td>
+<td align = "center"><img src="https://i.loli.net/2021/05/11/Ge4s7n5M8Ec1pQz.jpg" width=500 ></td>
 </tr>
 
 </table>
