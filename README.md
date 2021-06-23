@@ -171,6 +171,7 @@
   - [21.5.17~18](#2151718)
   - [21.5.19~22](#2151922)
   - [21.5.23~6.5](#2152365)
+  - [21.6.6~6.22](#2166622)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -2050,11 +2051,11 @@
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">🌧️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">🥣</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">🥳</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">🙊</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">📸</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">💤</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">🌄</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">😭</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >6.11</td>
@@ -2069,16 +2070,16 @@
                  <td width= "100" align="center" >6.20</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">👨‍🎓</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">🙍‍♂️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">😋</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">📸</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">🌇</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">💪</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">😨</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">🌧️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">👀</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">👀</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td>
     </tr>
     <tr>
                  <td width= "100" align="center" >6.21</td>
@@ -2093,9 +2094,9 @@
                  <td width= "100" align="center" >6.30</td>
     </tr>
     <tr>
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td> 
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td> 
-                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">👀</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">🥰</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2166622">❎</td> 
+                 <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">✒️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td> 
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td> 
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td> 
                  <td width= "100" align="center" ><a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">☄️</a>|<a href="https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2152365">❎</td> 
@@ -3568,3 +3569,68 @@ Miraitowa   永远期待着明亮的未来
 
 ---
 
+
+## 21.6.6~6.22 
+> <font face="Noto Serif SC">&emsp;&emsp;6号，小治和我沉迷撸啊撸。昨天码完了生活日记的git更新，今天完成了kemo项目的更新。晚上言回来，拿到了惊喜的G7 Mark II，把玩了半天，无奈没有储存卡，回头再学习一波，如何在有限的人生中创造无限的记忆。看了会儿《生活家》，啃了一会儿外卖，夜晚就接近了尾声。<br><br>7号，听宝马dd说腰疼，我一听以为是久坐导致的，原来是因为练舞的体能训练加毛球，确实要多运动，不然腰真的顶不住，肾疼。忠太表示提前放了三天假，不知道能去哪，还是回归了那个老生常谈的话题，我能不能在这干下去，不能干下去又能去哪，我只能表示这个问题除了出去走看，没法解决，没人知道你适合在哪里，除了自己，就算有人给了你机会，去了之后发现并不适合自己，还是会离开。今晚迫不及待想试试G7的性能，散着步就出发了，在理工楼前拍入暮的夕阳，在去往平江路的途中拍那些一尘不变的风景，此刻它们也被赋予了新的意义，存在于我们镜头中的记忆，在平江路头拍摄类似于2004年清华计算机系拍摄的宿舍vlog的那种生活镜头，在平江路里拍她缓慢前进的背影。不过没有太多运用我刚学到的知识，我一路上尽跟她显摆了，导致她一度想回去先学习一波。回来之后怒学十节课，完成了对极地...手记这个男人在2018年夏天浪漫的摄影旅程的欣赏。<br><br>8号，想的太多。今天主要关于全省三本院校转设导致学生校内游行抗议事件的大讨论，前几天刚考完觉醒年代，这就开始上演了。下午跟宝马dd和靖靖一起讨论了一波他新闻搜索引擎项目的前端问题，如何在展示搜索结果之后点击按热度还是按照时间顺序，点击这些按钮之后如何重新排序搜索结果并进行展示。晚上跟言也聊了一聊转设的事情，顺便了解一波端午的安排，最主要的还是品尝了一波我新买的冻柠，并进行了一波影视鉴赏，狠狠地学习了一下《真探》这部悬疑剧的哲学思考。回来的时候她好像在思考某件事情，一言不发，问就是说在思考人生奥秘，后来直接说什么都没有，那就肯定有什么，难道是因为圣楠发消息？可是我说过不提她的事情，而且也不是什么要紧的事，那还是真是摸不透了。。<br><br>9号，组会日。很早地赶到了公司，三楼已然坐满了人，来到这里好像已经失去了我们的地方。终于吃到了老板订的晚饭，是披萨，众人只兴奋，表示默默吃就好。晚上回来，又是很晚，想要运动，但操场已经关门了，言穿了件黑色长裙，确实好像显得很高啊，比例拉长了。我说你穿成这样怎么跑步啊，当然其实也没机会跑了，只得漫步于校园，寻觅一处荷花池，与夏夜简直绝配，而且只属于我们的moment，静谧，无人，黑夜。聊起了毕业旅行的事，只说中国还有什么地方没去过嘛，难以抉择，不过对我来说还好，因为中国我就没去过几个地方。<br><br>10号，下午打了第二针疫苗，顺便报名了一下研究生人工智能创新大赛的应用创新组，或许可以拿我的表情包项目包装一下立意去参个赛。晚上跟言一起看了一会《生活家》，一起p了一下院的摄影比赛的投稿的图片，毕竟最后一天了。第三次去操场跳绳，又晚了一步，只剩下20分钟了，所以转场到荷花池，昨天说过了，今天我终于明白这里这么静谧为啥没人了，原来味道很大。月光下，黑夜中，二人伫立于夏荷旁，起舞而跃，哒哒哒，此起彼伏。回去的路上，我才知道，前几天果然还是因为这个事情，还是我想的不够多，我原以为这件事不说出来比说出来更好，不会打破我们的气氛，但也不好意思拒绝。原来其实她早就知道，而且知道的比我还前，在当时那个场景下，我们快活地在相机的记录下吃饭，我是真的没想到会发生这个情况，我的想法就是这个时候敷衍一下，我们继续吃我们的就好。言嘴上说：我没事啊，但面无表情，我就知道事情大了，她认为这么普通的事情，刻意不说出来就好像这是某种只有两人之间共享的事情，我确实没考虑到，我只想的是它并不重要，我帮个小忙，言也并不会因此而多想就行了。但是我就一直在说你要是不上班我们就能一起去，就能畅快地聊这个事情了，我知道这个根本不是问题的核心。当我像往常一样小心翼翼地把脸凑过去，她突然面无表情地说第二次原谅的时候，真的有点吓到。不管如何，言最后也收回了她的怒气，我们终归没有让这些情绪过夜，虽然它已经过了两天了。<br><br>11号，上午带着宝俊一起报了一波人工智能创新大赛。下午帮人进行了一下政审，我做了剧本，我们属于不同院的研会成员，由于举办活动认识，列举情况就正好对应活动中的认知，比如举办学术活动时的工作严谨，比如举办院联谊时的待人友善，这个剧本几乎可以圆一切政审话术。然后码了一波字，这几天的学术以及生活紧张状况。修缮了一下Davinci以及Au的插件，看了一下淘宝上Davinci的模板，炫酷的一批，工欲善其器，准备完毕剩下的就是高大上的剪辑了。<br><br>12号，这一天大概是我计划很久的端午计划被打乱的一天。本来以为这一晚会非常美好，接言的时候被无情拒绝我就已经整个人都不好了。走的时候老妈打电话搞技术问题，又是坐地铁很是麻烦，又是迟到饭局，吃饭的时候一个个不说话也不怎么吃，更加难受。然后我想打破尴尬，跟这个文学院的女生攀点话，但是我的每句话要么听不清，要么需要旁边人翻译，难不成我是歪果仁？这饭已经吃的很尴尬了，一路上又闹了别扭，然后由于某些原因密室又玩了一个最没有意思的一个，本来结束后我觉得终于结束了可以回去了。我已经身心俱疲，一群人居然开始玩起了那个什么Fun纸牌，我就很烦躁，言玩的很开心，到最后我几乎快崩溃了，这一晚，全乱了。<br><br>13号，罗翔读书日分享的一些东西的思考，说到什么是好？读书好不好，怎么定义好，每个人都有自己对好的标准，那么真正的“好”就是这其中的最大公约数，那么这个最大公约数凭什么就可以来对我约束呢？当这个good不再是是单数，变成了复数goods，那么“好”就变成了一种商品和交易。存在着两种思想：反智主义和尚智主义，成对的错误，乔治奥威尔说某些理论是如此的愚蠢，以至于只有某个知识分子才可能相信，因为没有任何一个普通人会去相信它。智力对迟钝，智慧对愚昧，愚昧的人通常认为自己很聪明。因为无知而读书，而读书会让我们承认自己的无知。 萨缪尔约翰逊说伟大的工作是靠耐性而不是力量去做。读书的四种境界：在书籍中逃避现实。长恨此生非我有，何时忘却蝇营。夜阑风静。小舟从此逝，江海寄余生。没有摆脱逃避的本质。在书籍中营造世界。在书籍中完成自我救赎 ，罗素：对爱情的渴望，对知识的追求，对人类苦难不可遏制的同情心。关于爱情，罗素不断从别人的爱中获取自己自私的利益，强大的虚荣心。爱人类，但不爱具体的人。赢得道德上的优越感，自我欺骗式的阅读。在书籍中理解世界。终究是要有进入世界的力量与勇气。特蕾莎修女有勇气为年老的人不怕脏地照顾。想来昨天吃饭也太尴尬了，今天一定要吃个痛快，必须去久光。想着去久光找那个偶然看到的龙记茶餐厅，半天也没看见，只有地图上有，找了半天也没有港式餐厅，后来一想我们好像从没吃过桃花源记，虽然第一次见面就想去吃平江路那家，但是走了半天发现要排队就没吃到，那之后就一直没吃。地铁上，听着二哥和小鱼的吵架的前因后果，只能说理解交流永远要放在第一位，好在确实和好了就好。吃饭的时候安利了好久关于安吉的各种好玩的地方以及她以前玩划船运动的惨痛经历，反击却反到了自己也太惨了。从久光的负一逛到三楼，想着这些没有店面的零食摊真的可以实现营收嘛，还有这些卖衣服的实体店，真的负一楼人满为患，而上面三层几乎是没人的情况，尤其现在还是端午假期的情况下，虽然跟我没关系，但是看到这种冷清的场面总感觉很悲伤。记得去年暑假有一次来久光看到久光后面的楼在烟雨夜晚像烟囱冒着烟气的样子，仿佛接壤着仙境般，今天这样丝雨的夜晚又再次看到了，也才发现久光的对面是圆融星座。这回终于没兜住，下载了金拱门的APP，因为言想吃那个免费送的金饭桶，因为只送不卖。回来的时候关于游戏鄙视链的问题，比如玩端游的鄙视玩手游的，我举一个例子，她反驳一个例子，疑惑的眼神真的是太可爱了，可以作为以后的长期争论话题。<br><br>14号，端午节。这是一个帮ycc跟言拍毕业照的一天，承载了一生回忆的伊始。<br><br>15号，这天的夕阳很美，pyq看见了很多人分享了此刻他们看到的夕阳，最终我们还是没有一起看到。这几天萦绕在耳边的就是：吃了，但没完全吃，转了，但没完全睡，饿了但没完全饿...<br><br>16号，组会的一天。很水的组会。回来第四次在操场进行跳绳运动，几乎是全程在讨论厦门之旅的种种细节，哪里最好玩，吃什么比较好，住在哪里等。<br><br>17号，今天她去跟Tracy打球，我在做vivo的笔试。懒得去吃饭，终于吃上了老坛酸菜面，还是那个味。顺便一起去东门拿了她的小粉色自行车，就很舒服，我骑着小车带着她一路欢乐地晃了回来，像极了父亲带着女儿逛公园。泡完泡面，不成想她又自己睡着了，现在晚上没晚安总感觉这夜好孤独。<br><br>18号，下雨的一天，言最后一天上班。她昨晚又忘记说晚安，悲伤。冒雨提前去了言吃龙虾的地方。遥想十几年前，那里废墟一片，现在灯火通明。我就知道她结束才给我打电话，我只表示我早就来了。在荷花池前面，下雨，吃着冰激凌，拥抱了好久。<br><br>19号，言离开的第一天。下雨的一天。下雨给cyq宿舍拍毕业照。晚上一行人去独墅湖看毕业晚会，中间趣事很多。言在八市逛街。<br><br>20号，上午在实验室醒来。下午打了毛球。晚上跟昆仑一起撸。乌雕云观战。晚上跟言在海边视频，晚上聊到很晚。<br><br>21号，继续修缮AIStickerSearcher，言旅行第三天，vivo面试。<br><br>22号，这天言终于回来了。我跟小于一起坐地铁去苏州北去接她们，一路无言，因为我觉得互相其实是喜欢安静的人。终于又相见了，三天却似过去了一周。然而这又是一个一天一刻不停歇的一天，接完马山又进地铁坐了十几站从苏州北赶到独墅湖，太阳超级毒辣，幸好我买了点鸡肉卷，不然中饭都没机会吃。到了炳麟图书馆，几乎已经快到企业的签约仪式了，而我们竟找不到一个地方坐下来吃饭，图书馆不能带吃的进去，只能在图书馆外面站着把东西吃完。她去参加会议，我则观赏者图书馆开展的双选会已经那些伫立着的展示着各个毕业生风采的红色立幅，企图在中间找寻自己可以向往的身影。后来冒着大太阳在毕业典礼大草坪外面盘旋，偷偷溜进恩玲剧院，在厕所驻扎了很久，然后太阳还是很大，人越来越多，我们也没票入场，只能灰头土脸地赶向食堂，一路上被黑色衣服以及蓝色衣服的人占满了。吃的时候发现直播，典礼已经开始了，看见了古典乐的演出，不行，马上赶紧去，即使夕阳还没有完全消落，但不行了，姨妈，口口袋！走着走着，听到了欢乐颂，走着走着听到了奇异恩典，音乐越来越清晰，从草坪一直延伸到恩玲的无限人群，音浪，屏幕，人声，编织出这场毕业盛典。此时此刻，言开始百般想进入会场，发现只能在外围，根本无法伪造入场券。这一刻她终于意识到没有报名是多么地后悔，事实证明，后面发生的故事，不断地将这层后悔不断加重，直至顶峰。我们不断来回踱步，听着校长发言，听着毕业生代表发言，看着pyq参加典礼的人分享拿到的纪念品，直至深夜，看到拨穗礼时悲伤已经达到顶峰了，只想回去了，因为每个人都要拨一遍。最后的最后，我们还不知道，最为浪漫的无人机灯光秀与全场大合唱即将到来，这一夜是所有苏大人狂欢的一夜，pyq刷至深夜根本停不下来。典礼行至尾声，全场灯光关闭，乐声渐起，领唱同学身穿学位服，点亮手中的电子蜡烛，从不同方阵中走出，缓缓走向主舞台。总之，当400架无人机开始发光时，随着全场近万名同学的惊呼，他们此刻也正发着光。言告诉了我什么叫5秒入睡，不过她确实需要很多睡眠了。厦门之旅听起来真的太累了。</font>
+
+
+----
+
+<table>
+<tr>
+<th colspan="2">21.6.6~6.22</th>
+</tr>
+
+<tr>
+<td align = "center" ><b>晚饭记录</b></td>
+<td align = "center" ><b>「我爱苏大」</b></td>
+</tr>
+
+<tr>
+<td align = "center"><img src="https://i.loli.net/2021/06/23/gtdzvR1MSWoXwLH.jpg" width=500 ></td>
+<td align = "center"><img src="https://i.loli.net/2021/06/23/WuYVQXgSrHsLDjh.jpg" width=500 ></td>
+</tr>
+
+
+<tr>
+<td align = "center" ><b>厦门夕阳</b></td>
+<td align = "center" ><b>沙の爱</b></td>
+</tr>
+
+<tr>
+<td align = "center"><img src="https://i.loli.net/2021/06/23/TZRLXcMQfhwkJ7x.jpg" width=500 ></td>
+<td align = "center"><img src="https://i.loli.net/2021/06/23/LKaycdFsXPR2eYC.jpg" width=500 ></td>
+</tr>
+
+<tr>
+<td align = "center" ><b>授礼</b></td>
+<td align = "center" ><b>典礼</b></td>
+</tr>
+
+<tr>
+<td align = "center"><img src="https://i.loli.net/2021/06/23/8lWhjHrEeAocJTz.jpg" width=500 ></td>
+<td align = "center"><img src="https://i.loli.net/2021/06/23/3uw12ycoMz6pSRa.jpg" width=500 ></td>
+</tr>
+
+<tr>
+<td align = "center" ><b>浪漫</b></td>
+<td align = "center" ><b>再见</b></td>
+</tr>
+
+<tr>
+<td align = "center"><img src="https://i.loli.net/2021/06/23/7XURSxpvjdmEHyG.jpg" width=500 ></td>
+<td align = "center"><img src="https://i.loli.net/2021/06/23/TRHhu5oyF9l3eAY.jpg" width=500 ></td>
+</tr>
+
+<tr>
+<td align = "center"  colspan="2"><b>泪目</b></td>
+</tr>
+
+<tr>
+<td align = "center" colspan="2"><img src="https://i.loli.net/2021/06/23/F1ET6esdabyChcl.png" width=1000 ></td>
+</tr>
+
+
+</table>
+
+---
