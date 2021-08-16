@@ -3793,9 +3793,9 @@ Miraitowa   永远期待着明亮的未来
 <td align = "center" ><b>晚</b></td>
 </tr>
 <tr>
-<td align = "center"><img src="https://i.loli.net/2021/07/10/uMYnOFdbWT3aX7q.jpg" width=500 ></td>
-<td align = "center"><img src="https://i.loli.net/2021/07/10/MyjD6YeLECdmc41.jpg" width=500 ></td>
-<td align = "center"><img src="https://i.loli.net/2021/07/10/CBSxLu4iIDKPQJr.jpg" width=500 ></td>
+<td align = "center"></td>
+<td align = "center"></td>
+<td align = "center"></td>
 </tr>
 
 <tr>
@@ -4102,7 +4102,7 @@ Miraitowa   永远期待着明亮的未来
 <tr>
 <td align = "center"></td>
 <td align = "center"><img src="https://i.loli.net/2021/08/16/fs78UwvBR1DJenV.jpg" width=500 ></td>
-<td align = "center"><img src="https://i.loli.net/2021/07/10/CBSxLu4iIDKPQJr.jpg" width=500 ></td>
+<td align = "center"></td>
 </tr>
 
 <tr>
