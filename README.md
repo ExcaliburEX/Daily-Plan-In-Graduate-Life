@@ -1,7 +1,9 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+# 我只说一句：不要写日记！不要写日记！！不要特么地写日记了！！！ 
+
+- [](#)
 - [**2019~2021**](#20192021)
 - [♎️ <font face="Times New Roman">2019年9月](#️-font-facetimes-new-roman2019年9月)
 - [🦂 2019年10月](#-2019年10月)
@@ -4666,7 +4668,7 @@ Miraitowa   永远期待着明亮的未来
 </tr>
 
 <tr>
-<td align = "center"><img src="https://i.loli.net/2021/08/16/X1iWgU2w7zvKuVL.jpg" width=500 ></td>
+<td align = "center"><code><img src="https://i.loli.net/2021/08/16/X1iWgU2w7zvKuVL.jpg" width=500 ></code></td>
 <td align = "center"><img src="https://i.loli.net/2021/08/16/ZyBnha2mkT9RN3c.jpg" width=500 ></td>
 </tr>
 
